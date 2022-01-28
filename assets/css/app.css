@@ -1,0 +1,18 @@
+.header__logo
+{
+  font-size:1.5rem;
+  float: left;
+  margin: 0;
+  padding: 0;
+  width: auto;
+  height: auto;
+  background-image: none;
+  color: #fff;
+  text-decoration:none;
+  border: none;
+}
+
+#block-govwales-branding {
+  position: relative;
+  top: 7px;
+}

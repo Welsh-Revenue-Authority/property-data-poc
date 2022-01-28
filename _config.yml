@@ -1,0 +1,26 @@
+
+email: your-email@example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+# theme: minima
+plugins:
+  - jekyll-feed
+
+t:
+  en:
+    title: Land and Property Data
+    description: We are exploring the art of the possible for simpler, fairer, more efficient, devolved land and property taxation in Wales.
+    phase: Proof of concept
+    language: English
+    root: /en
+  cy:
+    title: Land and Property Data
+    description: We are exploring the art of the possible for simpler, fairer, more efficient, devolved land and property taxation in Wales.
+    phase: Proof of concept
+    language: Cymraeg
+    root: /cy
