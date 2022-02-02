@@ -48,7 +48,7 @@
       {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
       {% for altpage in pages %}
         <li data-drupal-language="{{altpage.lang}}" data-drupal-link-system-path="&lt;front&gt;" class="{{altpage.lang}} {% if page.lang == altpage.lang %}is-active{% endif %}">
-          <a href="{{site.baseurl}}/{{ altpage.url }}" class="language-link {% if page.lang == altpage.lang %}is-active{% endif %}" hreflang="altpage.lang" data-drupal-link-system-path="&lt;front&gt;">
+          <a href="{{site.baseurl}}{{ altpage.url }}" class="language-link {% if page.lang == altpage.lang %}is-active{% endif %}" hreflang="altpage.lang" data-drupal-link-system-path="&lt;front&gt;">
             {{site.t[altpage.lang].language}}
           </a>
         </li>
@@ -57,7 +57,7 @@
       {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
       {% for altpage in posts %}
         <li data-drupal-language="{{altpage.lang}}" data-drupal-link-system-path="&lt;front&gt;" class="{{altpage.lang}}  {% if page.lang == altpage.lang %}is-active{% endif %}">
-          <a href="{{site.baseurl}}/{{ altpage.url }}" class="language-link {% if page.lang == altpage.lang %}is-active{% endif %}" hreflang="altpage.lang" data-drupal-link-system-path="&lt;front&gt;">
+          <a href="{{site.baseurl}}{{ altpage.url }}" class="language-link {% if page.lang == altpage.lang %}is-active{% endif %}" hreflang="altpage.lang" data-drupal-link-system-path="&lt;front&gt;">
             {{site.t[altpage.lang].language}}
           </a>
         </li>
