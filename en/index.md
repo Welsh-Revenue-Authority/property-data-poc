@@ -12,7 +12,7 @@ We’re exploring how to meet these needs, but at the same time we’ve taken th
 
 Each week we share a short update on what we’re learning, along with links to things we think are interesting or relevant.
 
-[Subscribe now](/)
+[Subscribe now](mailto:dataproject@wra.gov.wales)
 
 ## About us
 

@@ -13,6 +13,8 @@ Rydym yn archwilio sut i ddiwallu'r anghenion hyn, ond ar yr un pryd rydym wedi 
 
 Bob wythnos rydym yn rhannu diweddariad byr ar yr hyn rydym yn ei ddysgu, ynghyd â dolenni i bethau sydd, yn ein barn ni, yn ddiddorol neu'n berthnasol.
 
+[Tanysgrifiwch nawr](mailto:dataproject@wra.gov.wales)
+
 ## Amdanom ni
 
 Rydym yn dîm bach amlddisgyblaethol a letyir gan ACC, sy'n cynnwys arbenigwyr cynnyrch, dylunio, data a pholisi treth. Rydym wedi ymrwymo am 12 wythnos i archwilio'r cyfleoedd a'r heriau yn y maes hwn.
