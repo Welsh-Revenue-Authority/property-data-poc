@@ -3,16 +3,19 @@ layout: landing
 lang: cy
 ref: index
 ---
-## Subscribe to our weeknotes
+Mae [Awdurdod Cyllid Cymru (ACC)](https://llyw.cymru/awdurdod-cyllid-cymru) yn gyfrifol am gasglu a rheoli [Treth Trafodiadau Tir (TTT)](https://llyw.cymru/treth-trafodiadau-tir-canllaw) yng Nghymru.
 
-Each week we share a short update on what we’re learning, along with links to things we think are interesting or relevant.
+Er mwyn darparu ein gwasanaethau, mae angen i ni allu adnabod tir ac eiddo yng Nghymru. Er mwyn cyflawni newidiadau i TTT yn y dyfodol sy'n cael eu [hymgynghori](https://llyw.cymru/ail-gartrefi-amrywiadau-lleol-i-gyfraddau-treth-trafodiadau-tir) arnynt, ac i gefnogi'r gwaith o ddatblygu trethi eiddo amrywiol yn ddaearyddol eraill yn y dyfodol, mae angen i ni allu adnabod tir ac eiddo mewn modd dibynadwy ar lefel fanylach nag a wnawn ar hyn o bryd.
 
-[Subscribe now](proplandpoc.substack.com)
+Rydym yn archwilio sut i ddiwallu'r anghenion hyn, ond ar yr un pryd rydym wedi manteisio ar y cyfle i ystyried a allem greu rhywbeth a allai fod yn sylfaen ar gyfer defnydd ehangach, er budd Cymru.
 
-## About us
+## Tanysgrifiwch i'n nodiadau wythnosol
 
-We are a small, multi-disciplinary team in the [Welsh Revenue Authority](https://gov.wales/welsh-revenue-authority) made up of product, design, data, and tax policy specialists. We are committed for 12 weeks to explore the opportunities and challenges in this space.
+Bob wythnos rydym yn rhannu diweddariad byr ar yr hyn rydym yn ei ddysgu, ynghyd â dolenni i bethau sydd, yn ein barn ni, yn ddiddorol neu'n berthnasol.
 
-Our specific focus is how we build this on stronger digital and data foundations, for the good of Wales. We hope to bring these ideas to life as a proof of concept - a practical demonstration of some of the things we explore.
+## Amdanom ni
 
-We don’t know where this will take us, nor do we expect the answer to be ‘*WRA does it all*’ so we are working in the open and hope to bring the right people together to explore it with us.
+Rydym yn dîm bach amlddisgyblaethol a letyir gan ACC, sy'n cynnwys arbenigwyr cynnyrch, dylunio, data a pholisi treth. Rydym wedi ymrwymo am 12 wythnos i archwilio'r cyfleoedd a'r heriau yn y maes hwn.
+Ein ffocws penodol yw sut i adeiladu ar sylfeini digidol a data cryfach, er lles Cymru. Rydym yn gobeithio dod â'r syniadau hyn yn fyw fel prawf o gysyniad - arddangosiad ymarferol o rai o'r pethau rydym yn eu harchwilio.
+
+Wyddwn ni ddim i ble y bydd hyn yn mynd â ni, ac nid ydym ychwaith yn disgwyl mai 'mae ACC yn gwneud y cyfan' fydd yr ateb, felly rydym yn gweithio’n agored a byddwn yn dod â'r bobl a'r sefydliadau iawn at ei gilydd i'w archwilio gyda ni.
