@@ -19,3 +19,5 @@ Each week we share a short update on what we’re learning, along with links to 
 We’re a small, multi-disciplinary team hosted by the WRA, made up of product, design, data, and tax policy specialists. We’re committed for 12 weeks to explore the opportunities and challenges in this space.
 Our specific focus is how we build on stronger digital and data foundations, for the good of Wales. We hope to bring these ideas to life as a proof of concept - a practical demonstration of some of the things we explore.
 We don’t know where this will take us, nor do we expect the answer to be ‘the WRA does it all’ so we’re working in the open and will bring the right people and organisations together to explore it with us.
+
+## Blog posts
