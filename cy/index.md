@@ -9,15 +9,15 @@ Er mwyn darparu ein gwasanaethau, mae angen i ni allu adnabod tir ac eiddo yng N
 
 Rydym yn archwilio sut i ddiwallu'r anghenion hyn, ond ar yr un pryd rydym wedi manteisio ar y cyfle i ystyried a allem greu rhywbeth a allai fod yn sylfaen ar gyfer defnydd ehangach, er budd Cymru.
 
-## Tanysgrifiwch i'n nodiadau wythnosol
-
-Bob wythnos rydym yn rhannu diweddariad byr ar yr hyn rydym yn ei ddysgu, ynghyd â dolenni i bethau sydd, yn ein barn ni, yn ddiddorol neu'n berthnasol.
-
-[Tanysgrifiwch nawr](mailto:dataproject@wra.gov.wales)
-
 ## Amdanom ni
 
 Rydym yn dîm bach amlddisgyblaethol a letyir gan ACC, sy'n cynnwys arbenigwyr cynnyrch, dylunio, data a pholisi treth. Rydym wedi ymrwymo am 12 wythnos i archwilio'r cyfleoedd a'r heriau yn y maes hwn.
 Ein ffocws penodol yw sut i adeiladu ar sylfeini digidol a data cryfach, er lles Cymru. Rydym yn gobeithio dod â'r syniadau hyn yn fyw fel prawf o gysyniad - arddangosiad ymarferol o rai o'r pethau rydym yn eu harchwilio.
 
 Wyddwn ni ddim i ble y bydd hyn yn mynd â ni, ac nid ydym ychwaith yn disgwyl mai 'mae ACC yn gwneud y cyfan' fydd yr ateb, felly rydym yn gweithio’n agored a byddwn yn dod â'r bobl a'r sefydliadau iawn at ei gilydd i'w archwilio gyda ni.
+
+## Tanysgrifiwch i'n nodiadau wythnosol
+
+Bob wythnos rydym yn rhannu diweddariad byr ar yr hyn rydym yn ei ddysgu, ynghyd â dolenni i bethau sydd, yn ein barn ni, yn ddiddorol neu'n berthnasol.
+
+[Tanysgrifiwch nawr](mailto:dataproject@wra.gov.wales)
