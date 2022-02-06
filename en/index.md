@@ -20,4 +20,4 @@ Each week we share a short update on what we’re learning, along with links to 
 
 [Subscribe now](mailto:dataproject@wra.gov.wales)
 
-## Blog posts
+## Blog

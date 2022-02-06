@@ -1,7 +1,11 @@
 {% include header.html %}
 <header class="page-header">
+    <div class="page-header__type">
+      <div>Blog</div>
+    </div>
     <h1 class="page-header__title page-header__title--has-type"><span property="schema:name">{{page.title}}</span>
     </h1>
+    <p>{{page.author}}, {{page.date | date: "%-d %B %Y" }}</p>
 </header>
 {{ content }}
 {% include footer.html %}
