@@ -6,10 +6,18 @@
   padding: 0;
   width: auto;
   height: auto;
-  background-image: none;
+  background-image: none!important;
   color: #fff;
   text-decoration:none;
   border: none;
+}
+
+.header__logo:active {
+  background-image: none!important;
+}
+
+.header__logo::selection {
+  background-image: none!important;
 }
 
 #block-govwales-branding {
