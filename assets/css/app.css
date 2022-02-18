@@ -1,26 +1,15 @@
-.header__logo
-{
-  font-size:1.5rem;
-  float: left;
+.secondary-h1-header {
   margin: 0;
-  padding: 0;
-  width: auto;
-  height: auto;
-  background-image: none!important;
-  color: #fff;
-  text-decoration:none;
-  border: none;
+  padding-left:0;
+}
+/* .toolbar-menu {
+  padding-left:0;
+}
+.toolbar-menu li {
+  list-style-type: none;
 }
 
-.header__logo:active {
-  background-image: none!important;
-}
-
-.header__logo::selection {
-  background-image: none!important;
-}
-
-#block-govwales-branding {
-  position: relative;
-  top: 7px;
-}
+#alpha-btn {
+color: #ffd530;
+background-color: #463811;
+} */

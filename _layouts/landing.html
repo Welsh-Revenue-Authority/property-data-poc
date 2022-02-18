@@ -1,24 +1,21 @@
-{% include header.html %}
+{% include header.html hidetitle=True %}
 <header class="page-header">
-    <div class="page-header__type">
-      {{site.t[page.lang].phase}}
+    <div class="gel_header__inner">
+        <a href="/">
+            <h1 id="header_title" class="main-logo gel_header__logo" style="display:inline">
+                {{site.t[page.lang].title}}
+            </h1>
+            {% if site.t[page.lang].description%}
+              <h2>{{site.t[page.lang].description}}</h2>
+            {% endif %}
+        </a>
     </div>
-    <h1 class="page-header__title page-header__title--has-type"><span property="schema:name">{{site.t[page.lang].title}}</span>
-    </h1>
 </header>
+
 <div class="page__intro page__intro--normal mb-40">
   <div class="page__intro">
     <p>{{site.t[page.lang].description}}</p>
   </div>
 </div>
 {{ content }}
-
-{% assign posts=site.posts | where:"lang", page.lang %}
-<ul>
-  {% for post in posts %}
-      <li>
-          <a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a>
-      </li>
-  {% endfor %}
-</ul>
 {% include footer.html %}

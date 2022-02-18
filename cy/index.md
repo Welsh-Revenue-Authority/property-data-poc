@@ -2,6 +2,7 @@
 layout: landing
 lang: cy
 ref: index
+hidetitle: True
 ---
 Mae [Awdurdod Cyllid Cymru (ACC)](https://llyw.cymru/awdurdod-cyllid-cymru) yn gyfrifol am gasglu a rheoli [Treth Trafodiadau Tir (TTT)](https://llyw.cymru/treth-trafodiadau-tir-canllaw) yng Nghymru.
 
@@ -15,11 +16,3 @@ Rydym yn dîm bach amlddisgyblaethol a letyir gan ACC, sy'n cynnwys arbenigwyr c
 Ein ffocws penodol yw sut i adeiladu ar sylfeini digidol a data cryfach, er lles Cymru. Rydym yn gobeithio dod â'r syniadau hyn yn fyw fel prawf o gysyniad - arddangosiad ymarferol o rai o'r pethau rydym yn eu harchwilio.
 
 Wyddwn ni ddim i ble y bydd hyn yn mynd â ni, ac nid ydym ychwaith yn disgwyl mai 'mae ACC yn gwneud y cyfan' fydd yr ateb, felly rydym yn gweithio’n agored a byddwn yn dod â'r bobl a'r sefydliadau iawn at ei gilydd i'w archwilio gyda ni.
-
-## Tanysgrifiwch i'n nodiadau wythnosol
-
-Bob wythnos rydym yn rhannu diweddariad byr ar yr hyn rydym yn ei ddysgu, ynghyd â dolenni i bethau sydd, yn ein barn ni, yn ddiddorol neu'n berthnasol.
-
-[Tanysgrifiwch nawr](mailto:prosiect.dataeiddo@acc.llyw.cymru)
-
-## Blog

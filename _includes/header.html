@@ -23,55 +23,94 @@
         <link rel="stylesheet" media="all" href="{{site.baseurl}}/assets/css/app.css" />
     </head>
     <body class="path-frontpage page-node-type-page lang-{{page.lang}}">
-          <script>document.body.className = ((document.body.className) ? document.body.className + ' js' : 'js');</script>
-            <div class="skip-to-main" id="skip-to-main">
-      <a href="#wg_main" class="visually-hidden focusable">
-        Skip to main content
-      </a>
+        <script>document.body.className = ((document.body.className) ? document.body.className + ' js' : 'js');</script>
+        <div class="skip-to-main" id="skip-to-main">
+          <a href="#wg_main" class="visually-hidden focusable">
+            Skip to main content
+          </a>
+        </div>
+        <div class="gel-beta accessible accessible--red">
+        <div class="container-fluid">
+            <div class="row">
+
+                <div class="col-md-7">
+                    <div class="gel-beta__message-wrapper">
+                        <div class="gel-beta__message">
+                            <a id="alpha-btn" class="btn btn--beta btn--light">{{site.t[page.lang].phase}}</a>
+                                <span>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-5">
+                    <div class="gel-beta__actions-wrapper">
+                        <div class="gel-beta__actions">
+
+                            <a class="btn btn--black" href="mailto:{{site.t[page.lang].root}}">
+                            {{site.t[page.lang].feedback}}</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="gel-beta__minimise hidden-lg">
+                                <button class="gel-beta__minimise-button  js-gel-beta-minimise"><span class="visually-hidden">Minimise</span></button>
+                </div>
+            </div>
+        </div>
     </div>
+    <div class="gel_masthead">
+        <div class="container-fluid">
+            <div class="row">
+              <!-- <div class="{% if page.hidetitle ==true %}col-md-8 col-sm-8{% else %}col-md-2 col-sm-2{% endif %}">
+                    <div id="block-govwales-branding">
+                        <a href="https://gov.wales/" title="Welsh Government" rel="govwales" class="header__logo" id="logo">
+                            <span class="visually-hidden">GOV.WALES</span>
+                        </a>
+                        <span class="print header__logo_print">
+                            <img src="/static/portal/img/wg_logo_print.png" alt="Welsh Government">
+                        </span>
+                    </div>
+                </div> -->
+                {% if page.hidetitle !=true %}
+                  <div class="col-md-8 col-sm-8">
+                      <a href="{{site.baseurl}}{{site.t[page.lang].root}}">
+                          <h1 id="secondary-h1-header" class="secondary-h1-header">
+                              {{site.t[page.lang].title}}
+                          </h1>
+                      </a>
+                  </div>
+                {% endif %}
+                <div id="masthead_options">
+                    <div class="{% if page.hidetitle !=true %}col-md-4 col-sm-4{% else %}col-md-12 col-sm-12{% endif %}">
+                        <div class="lle-header-language">
+                            <label class="hidden">Language</label>
+                            {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+                            {% for altpage in pages %}
+                              {% if page.lang != altpage.lang %}
+                                <a href="{{site.baseurl}}{{ altpage.url }}" class="language-link btn btn--language {% if page.lang == altpage.lang %}is-active{% endif %}" hreflang="altpage.lang" data-drupal-link-system-path="&lt;front&gt;">
+                                  {{site.t[altpage.lang].language}}
+                                </a>
+                              {% endif %}
+                            {% endfor %}
+
+                            {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+                            {% for altpage in posts %}
+                              {% if page.lang != altpage.lang %}
+                                <a href="{{site.baseurl}}{{ altpage.url }}" class="language-link btn btn--language  {% if page.lang == altpage.lang %}is-active{% endif %}" hreflang="altpage.lang" data-drupal-link-system-path="&lt;front&gt;">
+                                  {{site.t[altpage.lang].language}}
+                                </a>
+                              {% endif %}
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
       <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
 
 <div id="page_wrapper"  class="layout-container">
-
-  <header id="wg_header" class="wg_header">
-        <div class="layout-container">
-    <div class="header" id="header">
-      <div class="header__components container-fluid">
-        <div id="block-govwales-branding">
-
-      <a href="{{site.baseurl}}{{site.t[page.lang].root}}" title="Welsh Government" class="header__logo" id="logo"><span>{{site.t[page.lang].title}}</span></a>
-</div>
-<div class="language-switcher-language-url" id="block-govwales-languageswitcher" role="navigation">
-
-    <ul class="links">
-
-      {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-      {% for altpage in pages %}
-        <li data-drupal-language="{{altpage.lang}}" data-drupal-link-system-path="&lt;front&gt;" class="{{altpage.lang}} {% if page.lang == altpage.lang %}is-active{% endif %}">
-          <a href="{{site.baseurl}}{{ altpage.url }}" class="language-link {% if page.lang == altpage.lang %}is-active{% endif %}" hreflang="altpage.lang" data-drupal-link-system-path="&lt;front&gt;">
-            {{site.t[altpage.lang].language}}
-          </a>
-        </li>
-      {% endfor %}
-
-      {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-      {% for altpage in posts %}
-        <li data-drupal-language="{{altpage.lang}}" data-drupal-link-system-path="&lt;front&gt;" class="{{altpage.lang}}  {% if page.lang == altpage.lang %}is-active{% endif %}">
-          <a href="{{site.baseurl}}{{ altpage.url }}" class="language-link {% if page.lang == altpage.lang %}is-active{% endif %}" hreflang="altpage.lang" data-drupal-link-system-path="&lt;front&gt;">
-            {{site.t[altpage.lang].language}}
-          </a>
-        </li>
-      {% endfor %}
-    </ul>
-
-  </div>
-
-      </div>
-    </div>
-  </div>
-
-
-  </header>
 
   <main id="wg_main" class="wg_main">
     <div id="main__body" class="main__body container-fluid home">
@@ -88,9 +127,9 @@
       <div class="container-fluid content-entity home__services">
         <div class="row">
 
-          <div class="col-xs-12 col-lg-8 ">
+          <div class="col-xs-12">
             <div class="row">
               <div class="views-element-container" id="block-views-block-policy-areas-top-level">
                 <div>
                   <div class="js-view-dom-id-b24881f56417e3af14ec15e135bb8f3a538cbb0cb18aa6ba8709256c6ce4ce3c">
-                    <div  class="col-xs-12 col-md-12">
+                    <div  class="col-xs-12 col-lg-8">
