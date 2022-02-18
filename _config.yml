@@ -22,6 +22,8 @@ t:
     feedback: Give feedback
     subscribe: Subscribe now
     archive: View archive
+    weeknotes: Weeknotes
+    weeknotes_description: Each week we share a short update on what we’re learning, along with links to things we think are interesting or relevant.
   cy:
     title: Data tir ac eiddo
     description:
@@ -32,3 +34,5 @@ t:
     feedback: Rhowch eich adborth
     subscribe: Tanysgrifiwch nawr
     archive: Gweld archif
+    weeknotes: Nodiadau wythnosol
+    weeknotes_description: Bob wythnos rydym yn rhannu diweddariad byr ar yr hyn rydym yn ei ddysgu, ynghyd â dolenni i bethau sydd, yn ein barn ni, yn ddiddorol neu'n berthnasol.
