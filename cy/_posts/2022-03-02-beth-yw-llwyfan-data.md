@@ -3,7 +3,7 @@ title: Beth yw llwyfan data?
 lang: cy
 ref: data-platform
 layout: post
-author: Anthony Pritchard and Richard Pope
+author: Anthony Pritchard a Richard Pope
 ---
 Fe wyddwn ni y gallai, yn y dyfodol, fod angen i ACC gefnogi trethi tir ac eiddo sy'n amrywio'n ddaearyddol, fel y newidiadau i'r Dreth Trafodiadau Tir (TTT) sy’n cael eu hymgynghori arnynt ar hyn o bryd. Rydym hefyd am allu dylunio gwasanaethau sy'n lleihau’r [baich gweinyddol](https://en.wikipedia.org/wiki/Once-only_principle) ar y cyhoedd a busnesau. Mae hynny'n golygu bod angen i ni allu adnabod tir ac eiddo'n ddibynadwy ar lefel fwy manwl nag yr ydym yn ei wneud ar hyn o bryd.
 
