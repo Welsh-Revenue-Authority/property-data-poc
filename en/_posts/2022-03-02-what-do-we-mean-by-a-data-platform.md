@@ -11,7 +11,7 @@ The aim of the land and property data proof of concept is to look at both of the
 
 ## Platforms support multiple services
 
-In short, platforms create value by making it faster and simpler to design better services and meet policy intent. Platforms also support multiple services.
+In short, platforms create value by making it faster and simpler to design better services and meet policy intent. Platforms, by definition, also support multiple services.
 
 While services allow residents and their representatives to achieve some sort of outcome (calculate and pay a tax bill, register a property as a holiday let, or view the tax history of a property), platforms expose the rules and data of government in a standard, machine readable, way that makes building services faster and easier.
 
