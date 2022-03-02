@@ -17,7 +17,7 @@ While services allow residents and their representatives to achieve some sort of
 
 ![Stack diagram showing services built on top of a rules platform and a data platform. Public-facing services allow residents or their representatives to achieve a desired outcome. Open APIs expose the business logic of government. Canonical datasets are used and trusted across government and beyond](/property-data-poc/assets/images/stack-en.png)
 
-Because platforms solve common problems once, they can also enable new types of service. For example, they can enable services that meet the ‘[once-only principle](https://en.wikipedia.org/wiki/Once-only_principle)’, were data already held by government is reused, with appropriate safeguards, to save users time. Or enable integration with specialist software, like [HMRC’s Making Tax Digital](https://www.gov.uk/guidance/find-software-thats-compatible-with-making-tax-digital-for-vat) platform does. We’ll talk more about services in future blog posts.
+Because platforms solve common problems once, they can also enable new types of service. For example, they can enable services that meet the ‘[once-only principle](https://en.wikipedia.org/wiki/Once-only_principle)’, where data already held by government is reused, with appropriate safeguards, to save users time. Or enable integration with specialist software, like [HMRC’s Making Tax Digital](https://www.gov.uk/guidance/find-software-thats-compatible-with-making-tax-digital-for-vat) platform does. We’ll talk more about services in future blog posts.
 
 ![Mockups of three examples services: a government property account, a commercial service for renting out a home and a government service for paying tax](/property-data-poc/assets/images/services-en.png)
 
