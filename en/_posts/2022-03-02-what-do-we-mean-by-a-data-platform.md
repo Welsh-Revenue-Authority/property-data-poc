@@ -23,7 +23,7 @@ Because platforms solve common problems once, they can also enable new types of 
 
 ## Platforms meet the needs of teams designing services
 
-A good platform is more than just a dataset. They need to be designed with the needs of teams designing services in mind. That means they are well documented, easy to find and stable. The data conforms to open standards and has clear provenance. Ideally a service team should be able to pick up and use a platform unaided.
+A good platform is more than just a dataset. It needs to be [designed with the needs of teams designing services in mind](https://platformland.github.io/playbook/book/text/self-service.html). That means they are well documented, easy to find and stable. The data conforms to open standards and has clear provenance. Ideally a service team should be able to pick up and use a platform unaided.
 
 ![Mockups of government branded API services for tax zones and checking iof a property is in  Wales](/property-data-poc/assets/images/rules-en.png)
 
