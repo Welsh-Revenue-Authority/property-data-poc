@@ -1,6 +1,6 @@
 ---
 title: Beth yw llwyfan data?
-lang: en
+lang: cy
 ref: data-platform
 layout: post
 author: The Land and Property Data Proof of Concept Team
