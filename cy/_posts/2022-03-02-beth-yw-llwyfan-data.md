@@ -19,7 +19,7 @@ Er bod gwasanaethau'n caniatáu i breswylwyr a'u cynrychiolwyr sicrhau rhyw fath
 
 Gan fod llwyfannau'n datrys problemau cyffredin unwaith, gallant hefyd alluogi mathau newydd o wasanaeth. Er enghraifft, gallant alluogi gwasanaethau sy'n bodloni'r '[egwyddor unwaith yn unig](https://en.wikipedia.org/wiki/Once-only_principle)', ble mae data a gedwir gan y llywodraeth eisoes yn cael ei ailddefnyddio, gyda mesurau diogelu priodol, er mwyn arbed amser i ddefnyddwyr. Neu alluogi integreiddio â meddalwedd arbenigol, fel y mae [llwyfan Gwneud Treth yn Ddigidol CThEM](https://www.gov.uk/guidance/find-software-thats-compatible-with-making-tax-digital-for-vat) yn ei wneud. Byddwn yn siarad mwy am wasanaethau mewn blogiau yn y dyfodol.
 
-![Mockups of three examples services: a government property account, a commercial service for renting out a home and a government service for paying tax](../../assets/images/services-cy.png)
+![Mockups of three examples services: a government property account, a commercial service for renting out a home and a government service for paying tax](/property-data-poc/assets/images/services-cy.png)
 
 ## Mae llwyfannau'n cwrdd ag anghenion timau sy'n dylunio gwasanaethau
 
