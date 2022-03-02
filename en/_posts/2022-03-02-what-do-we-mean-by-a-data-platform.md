@@ -31,4 +31,4 @@ A good platform is more than just a dataset. It needs to be [designed with the n
 
 ## Getting better through use
 
-The final characteristic of a platform is that they get better though use. Data is, essentially, maintained collaboratively as a wider public good.
+The final characteristic of a data platform is that they get better though use. Data is, essentially, maintained collaboratively as a wider public good.
