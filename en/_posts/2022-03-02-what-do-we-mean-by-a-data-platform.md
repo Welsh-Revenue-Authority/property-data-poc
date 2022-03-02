@@ -3,7 +3,7 @@ title: What do we mean by a data platform?
 lang: en
 ref: data-platform
 layout: post
-author: The Land and Property Data Proof of Concept Team
+author: Anthony Pritchard and Richard Pope
 ---
 We know that, in the future, the WRA may need to support geographically varied land and property taxes, like the changes to Land Transaction Tax currently being consulted on. We also want to be able to design services that reduce [administrative burden](https://en.wikipedia.org/wiki/Once-only_principle) on the public and businesses. That means we need to be able to reliably identify land and property at a more granular level than we do currently today.
 
