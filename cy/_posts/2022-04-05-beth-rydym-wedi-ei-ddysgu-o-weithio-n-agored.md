@@ -9,7 +9,7 @@ author: Jamie Arnold
 
 Mae [Awdurdod Cyllid Cymru](https://gov.wales/welsh-revenue-authority) (ACC) yn archwilio'r posibilrwydd o blatfform data tir ac eiddo.  Mae'r tîm yn datblygu prawf o gysyniad ac wedi ymrwymo i weithio’n agored, fel rhan o arbrofi gyda ffyrdd newydd o weithio. Mae’r post hwn yn disgrifio’r hyn rydyn ni wedi'i ddysgu ar hyd y daith.
 
-Mae gweithio’n agored yn frawychus ar y dechrau ond yna'n rhoi teimlad mawr o ryddhad i chi. Roedd cyhoeddi [gwefan y tîm](https://welsh-revenue-authority.github.io/property-data-poc/cy/) a’r [tirlun data’n](https://github.com/welsh-revenue-authority/data-landscape) teimlo’n beth mawr ar y pryd.  A ddylai ACC fod yn siarad am lwyfannau tir ac eiddo? A fydd pobl y tu allan i'r tîm yn deall pam ein bod yn gwneud y gwaith yma?  
+Mae gweithio’n agored yn frawychus ar y dechrau ond yna'n rhoi teimlad mawr o ryddhad i chi. Roedd cyhoeddi [gwefan y tîm](https://welsh-revenue-authority.github.io/property-data-poc/cy/) a’r [tirlun data’n](https://github.com/welsh-revenue-authority/data-landscape/blob/main/index.md) teimlo’n beth mawr ar y pryd.  A ddylai ACC fod yn siarad am lwyfannau tir ac eiddo? A fydd pobl y tu allan i'r tîm yn deall pam ein bod yn gwneud y gwaith yma?  
 
 Ond yna [dechreuodd pobl sylwi](https://twitter.com/tomskitomski/status/1496486485880721411?s=20&t=6PuRvEd93qF7o7IbLwho3A) a [dweud pethau caredig](https://twitter.com/gilest/status/1501891765028237313?s=20&t=6PuRvEd93qF7o7IbLwho3A).  
 
