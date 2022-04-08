@@ -9,7 +9,7 @@ author: Jamie Arnold
 The [Welsh Revenue Authority](https://gov.wales/welsh-revenue-authority) (WRA) is exploring the possibility of a land and property data platform.  The team is developing a proof of concept and have committed themselves to working in the open, as part of experimenting with new ways of working. This is a post about what we’ve learned along the way. 
 
 
-Working in the open is scary at first but then feels liberating. Publishing our [team’s website](https://welsh-revenue-authority.github.io/property-data-poc/en/) and [data landscape](https://welsh-revenue-authority.github.io/property-data-poc/en/) felt like a big deal at the time.  Should the WRA be talking about land and property platforms? Will people outside the team understand why we’re doing this work?   
+Working in the open is scary at first but then feels liberating. Publishing our [team’s website](https://welsh-revenue-authority.github.io/property-data-poc/en/) and [data landscape](https://github.com/welsh-revenue-authority/data-landscape/blob/main/index.md) felt like a big deal at the time.  Should the WRA be talking about land and property platforms? Will people outside the team understand why we’re doing this work?   
 
 And then [people started to notice](https://twitter.com/tomskitomski/status/1496486485880721411?s=20&t=6PuRvEd93qF7o7IbLwho3A) and [say nice things](https://twitter.com/gilest/status/1501891765028237313?s=20&t=6PuRvEd93qF7o7IbLwho3A).   
 
