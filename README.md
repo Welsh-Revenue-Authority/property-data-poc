@@ -23,6 +23,27 @@ Run the site with
 bundle exec jekyll serve
 ```
 
+### Developing it locally
+
+The frontend assets require Node.
+
+If you are working on the site locally you should install the dev-dependencies. Run
+```
+npm install
+```
+
+Work on the `.scss` file in `/src/scss`.
+
+When ready to compile your stylesheet(s) run
+```
+npm run build:stylesheets
+```
+
+Or, alternatively, to compile them whilst you are working run the watch command.
+```
+npm run watch
+```
+
 ## Making it bilingual
 
 Using this jekyll plugin allows us to make sure the site is bilingual.
