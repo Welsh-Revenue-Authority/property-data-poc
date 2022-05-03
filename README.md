@@ -10,6 +10,7 @@ The site is hosted on github pages. The instructions below are for running the s
 
 * Ruby
 * Bundler
+* Node (if working on it locally)
 
 ### Running locally
 
