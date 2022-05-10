@@ -15,7 +15,8 @@ I'w creu, rydyn ni’n defnyddio’r bwrdd Miro o sesiwn dangos a dweud yr wythn
 
 Rydyn ni hefyd yn edrych drwy ein sianel Microsoft Teams a Trello am gysylltiadau a sylwadau a rannwyd gan bobl. Hefyd rydyn ni’n cymryd sgrinluniau ac yn gwneud ‘gifs’ o unrhyw brototeipiau rydyn ni wedi'u gwneud.
 
-Unwaith y bydd y nodiadau wythnosol yn barod, rydyn ni’n eu cyhoeddi gan ddefnyddio tudalennau GitHub. [couple of plugins and the default GitHub Pages style](https://github.com/welsh-revenue-authority/weeknotes/blob/main/_config.yml). 
+Unwaith y bydd y nodiadau wythnosol yn barod, rydyn ni’n eu cyhoeddi gan ddefnyddio gyda [chwpl o ategion ac arddull diofyn Tudalennau GitHub](https://github.com/welsh-revenue-authority/weeknotes/blob/main/_config.yml).
+
 
 Mae'r tîm cyfathrebu yn gwneud gwiriad synnwyr cyflym cyn i ni gysylltu â nhw ac anfon copi trwy e-bost at danysgrifwyr.
 
