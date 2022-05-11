@@ -16,7 +16,7 @@ To create them, we use the Miro board from that week’s show and tell as a star
 
 We also look through our Microsoft Teams channel and Trello for links and comments people shared. Plus we take screenshots and make gifs of any prototypes we’ve made.
 
-Once the weeknotes are ready, we publish them using GitHub pages. [couple of plugins and the default GitHub Pages style](https://github.com/welsh-revenue-authority/weeknotes/blob/main/_config.yml). 
+Once the weeknotes are ready, we publish them using GitHub pages with a [couple of plugins and the default GitHub Pages style](https://github.com/welsh-revenue-authority/weeknotes/blob/main/_config.yml).
 
 The comms team do a quick sense-check before we link to them and send out a copy by email to subscribers.
 
