@@ -1,7 +1,7 @@
 ---
 title: What we learned about users
 lang: en
-ref: user-needs
+ref: user-needs-poc
 layout: post
 author: Neil Butt
 ---
