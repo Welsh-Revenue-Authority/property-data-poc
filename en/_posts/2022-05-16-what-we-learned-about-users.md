@@ -13,7 +13,7 @@ A 12 week proof of concept has a strong focus on research and user research has 
 - and how will they use it 
 
 The consultation on a variation of land transaction tax rates for second homes is aimed at changing behaviour.  To help people make informed decisions we need to consider how and when they will access information and what information motivates them.  
-##Who, what, when, where and why?
+## Who, what, when, where and why?
 We identified three categories of users we wanted to speak to:
 
 - **Service design teams** – people who build public facing services and would potentially use a data platform. What do they have problems with, what do they need, how would they use a data platform, and how would they use it?
