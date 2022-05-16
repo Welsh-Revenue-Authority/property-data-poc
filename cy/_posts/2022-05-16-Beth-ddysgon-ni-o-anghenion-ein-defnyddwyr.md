@@ -24,7 +24,7 @@ Fe wnaethon ni nodi tri chategori o ddefnyddwyr yr oedden ni am siarad â nhw:
 
 ### Mae gennyn ni lawer iawn mwy i'w ddysgu
 
-Mae angen i ni siarad â mwy o bobl! Wrth i ni symud i’r cam nesaf byddwn yn dal i weithio’n agored ac yn dal i siarad â chymaint o randdeiliaid â phosibl. Byddwn yn siarad â mwy o ddefnyddwyr ac yn mireinio ymchwil defnyddwyr pellach, felly os ydych chi’n meddwl bod gennych chi rywfaint o gyfraniad at hyn - cysylltwch â ni!
+Mae angen i ni siarad â mwy o bobl! Wrth i ni symud i’r cam nesaf byddwn yn dal i weithio’n agored ac yn dal i siarad â chymaint o randdeiliaid â phosibl. Byddwn yn siarad â mwy o ddefnyddwyr ac yn mireinio ymchwil defnyddwyr pellach, felly os ydych chi’n meddwl bod gennych chi rywfaint o gyfraniad at hyn - [cysylltwch â ni!](mailto:dataproject@wra.gov.wales)
 
 ### Canlyniadau cychwynnol
 
