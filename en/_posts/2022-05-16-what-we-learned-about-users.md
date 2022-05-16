@@ -13,7 +13,7 @@ A 12 week proof of concept has a strong focus on research and user research has 
 - and how will they use it 
 
 The consultation on a variation of land transaction tax rates for second homes is aimed at changing behaviour.  To help people make informed decisions we need to consider how and when they will access information and what information motivates them.  
-## Who, what, when, where and why?
+### Who, what, when, where and why?
 We identified three categories of users we wanted to speak to:
 
 - **Service design teams** – people who build public facing services and would potentially use a data platform. What do they have problems with, what do they need, how would they use a data platform, and how would they use it?
@@ -24,7 +24,7 @@ We identified three categories of users we wanted to speak to:
 We need to speak to more people! As we move into the next phase  we will continue to work in the open and continue to speak to as many stakeholders as possible. We will speak to more users and refine further user research this is also a shout out if you’re reading this and think you may have some skin in the game – [get in touch!](mailto:dataproject@wra.gov.wales) 
 
 
-## Hot takes 
+### Hot takes 
 
 Citizen:
 - All buyers stated that money was an important factor when purchasing a property, however landlords had extra considerations and complexities to consider when deciding whether a property was a worthwhile investment.
