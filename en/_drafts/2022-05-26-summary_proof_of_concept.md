@@ -70,7 +70,7 @@ Finally, we wanted to explore the idea of creating a digital proof of transactio
 ![ALT: A paper mockup of a Land Transaction Tax certificate in English and Welsh. It includes a signed QR code and a one-time code that can be used as part of a ‘tell us once’ service for moving home.](/property-data-poc/assets/images/digital-proof.gif)
 
 ### Property-per-page
-Imagine being able to type in a postcode on [GOV.WALES]([https](https://gov.wales/) and being able to see information about that property and its locale - a bit like Google search does for maps.  It could form the launchpad to national and local services as well as lots of other useful information.  
+Imagine being able to type in a postcode on [GOV.WALES](https://gov.wales) and being able to see information about that property and its locale - a bit like Google search does for maps.  It could form the launchpad to national and local services as well as lots of other useful information.  
 
 A property data platform would make this simple to deliver and low cost to maintain.
 
@@ -154,10 +154,41 @@ Early on we created a [team website](https://welsh-revenue-authority.github.io/p
 ### Github is our documentation
 We’ve used Github as our documentation.  For example, what we learned about the [Welsh land and property data landscape](https://github.com/welsh-revenue-authority/data-landscape/blob/main/index.md) is available for everyone to see and amend.  It’s built on other people’s great work that they’ve shared in the open.
 
+![A page from GitHUb with the title: Land and Property platform user research](/property-data-poc/assets/images/research-library.png)
+
+### Show & Tells
+We’ve used Show & Tells to people inside and outside of the WRA interested in the project up to date.  They form an important part of our governance. 
+
+![A slide showing a circular diagram of our weekly rhythm, with planning on Tuesday stand-ups on Wednesday, Thursday and Friday, and show and tell on Mondays.](/property-data-poc/assets/images/show-tell.png)
+
+For 30 minutes every Monday, the team demonstrates progress (work done, things learned) to attendees.  It gives stakeholders, collaborators, and experts in the field a chance to ask questions and challenge the team.  
+
+The forum provides independent scrutiny and hopefully builds confidence and trust in the team. It lets sponsors assess whether the team is delivering value.  
+
+Show & Tells help ensure the team is delivering the right thing in the right way by turning governance into ongoing engagement. 
+
+### Incremental delivery approach
+Each week the team needs to balance the trade-offs between learning, meeting the needs of users, delivering policy intent and building organisational capability.  By delivering in small increments the team aims to deliver something of [potential value](https://richardpope.org/blog/2022/03/16/UPC-measure-value-digital-service-work/) each week.
+
+![A 3 axes graph with the labels ‘user needs’, ‘capacity to operate’ and ‘policy intent’. A link shows all of them increasing over time. To the right the title is “balancing needs, policy intent and capability building”.](/property-data-poc/assets/images/upc.png)
+
+## 4. The scale of ambition and where to start
+The final aim of the proof of concept was to be clearer about the scale of ambition and where to start. Based on what we learned, this is our proposed, high-level approach to how we grow capability:
+
+![A roadmap with sections for now (learning to operate a simple platform), 3-6  months (adding our first service) and 9-12 months (growing the number of external users).](/property-data-poc/assets/images/roadmap.png)
 
 
+![A roadmap showing a single ‘platform and services team’ splitting into a platform team and a service team. Then, after 9 months, possible splitting again.](/property-data-poc/assets/images/team.png)
 
+The timings are speculative but illustrate that this is just the start of something.
 
+### Start small, aim big
+
+The ambition for the land and property platform is not about a single policy or initiative.  It’s for the long term.  It’s for Wales. A land and property data platform could mean better policy outcomes and a different approach to how public services can be designed.
+
+![A slide with an image showing example services, example rules and example data, such as property extents. It has the text: Joined-up, real-time services. Central, local, public and private. Code as rules enabling digital approaches to policy Data maintained collaboratively, operated as infrastructure, for the long-term and for all of Wales.](/property-data-poc/assets/images/ambiton.png)
+
+If you have questions or want to hear more about this work then feel free to [get in touch](mailto:dataproject@wra.gov.wales)
 
 
 
