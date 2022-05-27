@@ -189,8 +189,3 @@ The ambition for the land and property platform is not about a single policy or 
 ![A slide with an image showing example services, example rules and example data, such as property extents. It has the text: Joined-up, real-time services. Central, local, public and private. Code as rules enabling digital approaches to policy Data maintained collaboratively, operated as infrastructure, for the long-term and for all of Wales.](/property-data-poc/assets/images/ambiton.png)
 
 If you have questions or want to hear more about this work then feel free to [get in touch](mailto:dataproject@wra.gov.wales)
-
-
-
-
-
