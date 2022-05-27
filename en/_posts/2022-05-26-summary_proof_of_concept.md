@@ -94,7 +94,7 @@ Typically you might enter some data on a web form, submit it and then wait for s
 
 Platforms offer the potential to offer more real-time services that reduce this administrative burden and save time.  Maybe like this, where information that is already held can (with appropriate oversight and permission) be reused:
 
-![A simplified wireframe of a 3 step, future government web form where data already held by the government is played back to a user and they are given a QR code as a digital proof.](/property-data-poc/assets/images/realtime-services.png)
+![A simplified wireframe of a 3 step, future government web form where data already held by the government is played back to a user and they are given a QR code as a digital proof.](/property-data-poc/assets/images/real-time-services.png)
 
 Bringing together information from across government into a single service:
 
@@ -170,7 +170,7 @@ Show & Tells help ensure the team is delivering the right thing in the right way
 ### Incremental delivery approach
 Each week the team needs to balance the trade-offs between learning, meeting the needs of users, delivering policy intent and building organisational capability.  By delivering in small increments the team aims to deliver something of [potential value](https://richardpope.org/blog/2022/03/16/UPC-measure-value-digital-service-work/) each week.
 
-![A 3 axes graph with the labels ‘user needs’, ‘capacity to operate’ and ‘policy intent’. A link shows all of them increasing over time. To the right the title is “balancing needs, policy intent and capability building”.](/property-data-poc/assets/images/upc.png)
+![A 3 axes graph with the labels ‘user needs’, ‘capacity to operate’ and ‘policy intent’. A link shows all of them increasing over time. To the right the title is “balancing needs, policy intent and capability building”.](/property-data-poc/assets/images/ucp.png)
 
 ## 4. The scale of ambition and where to start
 The final aim of the proof of concept was to be clearer about the scale of ambition and where to start. Based on what we learned, this is our proposed, high-level approach to how we grow capability:
@@ -186,6 +186,6 @@ The timings are speculative but illustrate that this is just the start of someth
 
 The ambition for the land and property platform is not about a single policy or initiative.  It’s for the long term.  It’s for Wales. A land and property data platform could mean better policy outcomes and a different approach to how public services can be designed.
 
-![A slide with an image showing example services, example rules and example data, such as property extents. It has the text: Joined-up, real-time services. Central, local, public and private. Code as rules enabling digital approaches to policy Data maintained collaboratively, operated as infrastructure, for the long-term and for all of Wales.](/property-data-poc/assets/images/ambiton.png)
+![A slide with an image showing example services, example rules and example data, such as property extents. It has the text: Joined-up, real-time services. Central, local, public and private. Code as rules enabling digital approaches to policy Data maintained collaboratively, operated as infrastructure, for the long-term and for all of Wales.](/property-data-poc/assets/images/ambition.png)
 
 If you have questions or want to hear more about this work then feel free to [get in touch](mailto:dataproject@wra.gov.wales)
