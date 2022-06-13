@@ -82,31 +82,31 @@ Mae’r holl enghreifftiau hyn yn brototeipiau damcaniaethol. Eu pwrpas yw dango
 
 Mae llywodraeth Cymru wedi cynnal llawer o drafodaethau am [sut olwg fydd ar drethi datganoledig yn y dyfodol](https://ymchwil.senedd.cymru/erthyglau-ymchwil/trethu-yn-y-chweched-senedd/). Un o’n hamcanion oedd archwilio’r opsiynau polisi posibl y gallai platfform tir ac eiddo eu gwneud yn bosibl a sut y gallai’r platfform hwnnw gefnogi’r [fframwaith trethi datganoledig](https://llyw.cymru/fframwaith-polisi-trethi-html?_ga=2.100976071.770389225.1653403013-1893143058.1653299578) sy’n sail iddo.
 
-Mae platfform cyffredin ar gyfer tir ac eiddo yng Nghymru yn dod \â mathau newydd o wasanaethau ac opsiynau polisi a oedd yn amhosibl o’r blaen (neu’n anodd) yn realiti.
+Mae platfform cyffredin ar gyfer tir ac eiddo yng Nghymru yn dod â mathau newydd o wasanaethau ac opsiynau polisi a oedd yn amhosibl o’r blaen (neu’n anodd) yn realiti.
 
 ### Patrymau newydd ar gyfer dyluniad gwasanaethau
 
 Yn gyntaf, o edrych ar ddyluniad gwasanaeth, mae gwasanaeth digidol nodweddiadol y llywodraeth yn edrych fel y canlynol:
 
-![Ffr\âm wifren wedi’i sylmleiddio o ffurflen gyffredinol 7 cam y llywodraeth, gan gynnwys yr opsiwn i adolygu’r atebion a nodwyd a chyfeirnod ar y dudalen ddiwethaf.](/property-data-poc/assets/images/transactional-services.png)
+![Ffrâm wifren wedi’i sylmleiddio o ffurflen gyffredinol 7 cam y llywodraeth, gan gynnwys yr opsiwn i adolygu’r atebion a nodwyd a chyfeirnod ar y dudalen ddiwethaf.](/property-data-poc/assets/images/transactional-services.png)
 
 Fel arfer, efallai y byddwch yn mewnbynnu ychydig o ddata ar ffurflen we, ei chyflwyno ac yna yn aros i rywbeth ddigwydd. Yn y cyfamser, efallai y cewch gadarnhad e-bost a byddwch yn gallu dilyn unrhyw gynnydd. Yn yr achos hwn, disgwylir i bobl gofnodi gwybodaeth y gallent fod eisoes wedi’i rhoi i’r llywodraeth. Hefyd, mae angen iddynt aros i rywbeth ddigwydd
 
 Mae platfformau’n rhoi’r cyfle i gynnig mwy o wasanaethau amser real sy’n lleihau’r baich gweinyddol hwn ac yn arbed amser. Efallai, drwy wneud hyn, y bydd modd ailddefnyddio gwybodaeth sydd eisoes gennym (gan sicrhau goruchwyliaeth a chael caniatâd priodol): 
 
-![Ffr\âm wifren wedi’i symleiddio o ffurflen we 3 cam y llywodraeth lle caiff data sydd eisoes ym meddiant y llywodraeth ei chwarae yn ôl i ddefnyddiwr a rhoddir cod QR iddynt fel prawf digidol.](/property-data-poc/assets/images/real-time-services.png)
+![Ffrâm wifren wedi’i symleiddio o ffurflen we 3 cam y llywodraeth lle caiff data sydd eisoes ym meddiant y llywodraeth ei chwarae yn ôl i ddefnyddiwr a rhoddir cod QR iddynt fel prawf digidol.](/property-data-poc/assets/images/real-time-services.png)
 
 Cyfuno gwybodaeth o bob rhan o’r llywodraeth mewn un gwasanaeth:
 
-![Ffr\âm wifren wedi’i symleiddio o dudalen cychwyn gwasanaeth y llywodraeth o’r enw. Teitl y dudalen yw: Mewngofnodi er mwyn rheoli eich cyfrif cartref.](/property-data-poc/assets/images/household-account.png)
+![Ffrâm wifren wedi’i symleiddio o dudalen cychwyn gwasanaeth y llywodraeth o’r enw. Teitl y dudalen yw: Mewngofnodi er mwyn rheoli eich cyfrif cartref.](/property-data-poc/assets/images/household-account.png)
 
 neu helpu pobl i ryngweithio â Llywodraeth Cymru ac awdurdodau lleol ar yr un pryd:
 
-![Ffr\âm wifren wedi’i symleiddio o dudalen we o wasanaeth llywodraeth o dan y teitl: Edrychwch ar y data sydd gennym amdanoch. Mae ganddo ddwy linell sy’n arwain at ‘llywodraeth leol’ a ‘llywodraeth Cymru’](/property-data-poc/assets/images/joined-up-services.png)
+![Ffrâm wifren wedi’i symleiddio o dudalen we o wasanaeth llywodraeth o dan y teitl: Edrychwch ar y data sydd gennym amdanoch. Mae ganddo ddwy linell sy’n arwain at ‘llywodraeth leol’ a ‘llywodraeth Cymru’](/property-data-poc/assets/images/joined-up-services.png)
 
 Un maes y gwnaethom ei drafod wrth gynnal y prawf o gysyniad, yw’r posibilrwydd o gefnogi Ardoll Twristiaeth lle mae busnesau llety yng Nghymru yn cofrestru i gasglu ardoll twristiaeth eu hunain. Gallai hyn gael ei gefnogi gan blatfform tir ac eiddo sy’n dwyn ynghyd gwybodaeth o wahanol rannau o’r llywodraeth, neu sy’n cefnogi sefydliadau’r sector preifat (e.e. Airbnb) gyda’r caniatâd priodol i ddefnyddio’r rhywfaint o’r data hwn hefyd.
 
-![Ffr\âm wifren wedi’i symleiddio o wasanaeth y llywodraeth o’r enw ‘Cyfrif llety twristiaeth cofrestredig’. Mae’n cynnwys rhestr wirio o wybodaeth y mae defnyddwyr eisoes wedi’i ddarparu, ac un eitem heb ei chwblhau. AR ochr dde’r sgrin, mae opsiynau i roi gwybod am newidiadau, i ddiweddaru dewisiadau cyswllt, i weld a thalu swm yr ardoll ymwelwyr, a chysylltu’r cyfrir i AirBnB.](/property-data-poc/assets/images/tourism-account.png)
+![Ffrâm wifren wedi’i symleiddio o wasanaeth y llywodraeth o’r enw ‘Cyfrif llety twristiaeth cofrestredig’. Mae’n cynnwys rhestr wirio o wybodaeth y mae defnyddwyr eisoes wedi’i ddarparu, ac un eitem heb ei chwblhau. AR ochr dde’r sgrin, mae opsiynau i roi gwybod am newidiadau, i ddiweddaru dewisiadau cyswllt, i weld a thalu swm yr ardoll ymwelwyr, a chysylltu’r cyfrir i AirBnB.](/property-data-poc/assets/images/tourism-account.png)
 
 Neu dychmygwch sut mae cael dynodydd cyffredin a rennir ar gyfer busnes twristiaeth yn amlygu effaith polisïau. Dyma sticer ffug cwbl ddychmygol a fyddai’n galluogi pobl i sganio cod QR i weld sut y caiff yr Ardoll Twristiaeth ei wario yn yr ardal leol.
 
@@ -146,7 +146,7 @@ Rydym yn gosod y nod i’n hunain o ddangos ffyrdd newydd o weithio. Drwy gydol 
 
 ![Gif wedi’i animeiddio o dudalen we sy’n sgrolio yn dangos nodiadau wythnosol ein tîm a gwefan y prosiect.](/property-data-poc/assets/images/team-website.gif)
 
-Un o’r pethau cyntaf y gwnaethom oedd creu [gwefan i’r t\îm](https://welsh-revenue-authority.github.io/property-data-poc/cy/2022/03/02/beth-yw-llwyfan-data.html) a oedd yn cael ei ddefnyddio gennym i rannu cynnydd drwy [ddefnyddio nodiadau wythnosol](https://welsh-revenue-authority.github.io/weeknotes/property-data-poc/2022-02-07) a [blogiau](https://welsh-revenue-authority.github.io/property-data-poc/cy/2022/04/05/beth-rydym-wedi-ei-ddysgu-o-weithio-n-agored.html). Roedd hyn yn effeithiol i ni egluro’r hyn rydym yn ei wneud i bobl y tu allan i’n tîm a'n sefydliad. Rydym yn credu eu bod wedi gwella’r ffordd rydym yn cyfathrebu ac yn cydweithio ac rydyn ni’n sylwi ar lwythi o [fanteision gweithio’n agored](https://welsh-revenue-authority.github.io/property-data-poc/cy/2022/04/05/beth-rydym-wedi-ei-ddysgu-o-weithio-n-agored.html).
+Un o’r pethau cyntaf y gwnaethom oedd creu [gwefan i’r tîm](https://welsh-revenue-authority.github.io/property-data-poc/cy/2022/03/02/beth-yw-llwyfan-data.html) a oedd yn cael ei ddefnyddio gennym i rannu cynnydd drwy [ddefnyddio nodiadau wythnosol](https://welsh-revenue-authority.github.io/weeknotes/property-data-poc/2022-02-07) a [blogiau](https://welsh-revenue-authority.github.io/property-data-poc/cy/2022/04/05/beth-rydym-wedi-ei-ddysgu-o-weithio-n-agored.html). Roedd hyn yn effeithiol i ni egluro’r hyn rydym yn ei wneud i bobl y tu allan i’n tîm a'n sefydliad. Rydym yn credu eu bod wedi gwella’r ffordd rydym yn cyfathrebu ac yn cydweithio ac rydyn ni’n sylwi ar lwythi o [fanteision gweithio’n agored](https://welsh-revenue-authority.github.io/property-data-poc/cy/2022/04/05/beth-rydym-wedi-ei-ddysgu-o-weithio-n-agored.html).
 
 Rydym wedi defnyddio Github i ddechrau adeiladu llyfrgell ymchwil defnyddwyr preifat - sylfaen wybodaeth o’r hyn rydym wedi’i ddysgu drwy siarad â defnyddwyr a’u goruchwylio.
 
@@ -158,11 +158,11 @@ Rydym wedi defnyddio sesiynau Dangos a Dweud gyda phobl o ACC a phobl y tu allan
 
 ![Sleid yn dangos diagram cylchol o’n rhythm wythnosol. Cynhelir gwaith cynllunio ar ddydd Mawrth, cyfarfodydd byr ar droed ar ddydd Mercher, dydd Iau a dydd Gwener a sesiynau dangos a dweud ar ddydd Llun. ](/property-data-poc/assets/images/show-tell-cy.png)
 
-Am 30 munud bob dydd Llun, mae'r tîm yn dangos eu cynnydd (gwaith a wnaed, pethau a ddysgwyd) i bobl sy’n mynychu. Mae’n rhoi’r cyfle i randdeiliaid, cydweithredwyr ac arbenigwyr yn y maes… i ofyn cwestiynau a herio’r t\îm.
+Am 30 munud bob dydd Llun, mae'r tîm yn dangos eu cynnydd (gwaith a wnaed, pethau a ddysgwyd) i bobl sy’n mynychu. Mae’n rhoi’r cyfle i randdeiliaid, cydweithredwyr ac arbenigwyr yn y maes… i ofyn cwestiynau a herio’r tîm.
 
-Mae’r fforwm yn annog gwaith craffu annibynnol a'r gobaith yw ei fod yn meithrin hyder ac ymddiriedaeth yn y tîm. Mae’n galluogi noddwyr i asesu cyfraniad y t\îm.
+Mae’r fforwm yn annog gwaith craffu annibynnol a'r gobaith yw ei fod yn meithrin hyder ac ymddiriedaeth yn y tîm. Mae’n galluogi noddwyr i asesu cyfraniad y tîm.
 
-Mae sesiynau Dangos a Dweud yn helpu i sicrhau bod y t\îm yn darparu’r peth cywir yn y ffordd gywir drwy ychwanegu ymgysylltiad at lywodraethant.
+Mae sesiynau Dangos a Dweud yn helpu i sicrhau bod y tîm yn darparu’r peth cywir yn y ffordd gywir drwy ychwanegu ymgysylltiad at lywodraethant.
 
 ### Dull cyflawni fesul cam
 
@@ -177,7 +177,7 @@ Nod terfynol y prawf o gysyniad oedd bod yn gliriach ynghylch yr uchelgais a’r
 ![Tudalen fapio yn cynnwys adrannau dros dro (dysgu defnyddio platfform syml), 3-6 mis (ychwanegu ein gwasanaeth cyntaf) a 9-12 mis (ehangu nifer y defnyddwyr allanol).](/property-data-poc/assets/images/roadmap-cy.png)
 
 
-![Tudalen fapio sy’n dangos un ‘t\îm platfform a gwasanaethau’ a gaiff ei rannu’n dîm platfform a th\îm gwasanaeth. Yna, ar ôl 9 mis, rhaniad pellach o bosibl.](/property-data-poc/assets/images/team-cy.png)
+![Tudalen fapio sy’n dangos un ‘tîm platfform a gwasanaethau’ a gaiff ei rannu’n dîm platfform a thîm gwasanaeth. Yna, ar ôl 9 mis, rhaniad pellach o bosibl.](/property-data-poc/assets/images/team-cy.png)
 
 Amserlen ddamcaniaethol yw hon ond mae’n dangos mai dim ond megis dechrau yw hyn.
 
