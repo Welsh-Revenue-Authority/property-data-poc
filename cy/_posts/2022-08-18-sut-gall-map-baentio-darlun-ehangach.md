@@ -24,7 +24,7 @@ Mae hyn i gyd yn codi'r cwestiwn ym mhle ddylai’r cyfrifoldeb fod dros reoli d
 
 # Defnyddio prototeipiau er mwyn galluogi meddwl archwiliol
 
-Mae'r ymchwil wedi rhoi hwb newydd i'n tîm. O ganlyniad i'r hyn rydyn ni wedi'i ddarganfod rydyn ni'n dod â setiau data go iawn at ei gilydd i'r platfform data. O'r rhain rydyn ni’n bwriadu [creu prototeipiau i helpu llunwyr polisi ar lefelau lleol a chenedlaethol](https://wra-prototypes.herokuapp.com/en/index). Rydyn ni am alluogi sgyrsiau am sut y gellid trefnu treth eiddo rhanbarthol.
+Mae'r ymchwil wedi rhoi hwb newydd i'n tîm. O ganlyniad i'r hyn rydyn ni wedi'i ddarganfod rydyn ni'n dod â setiau data go iawn at ei gilydd i'r platfform data. O'r rhain rydyn ni’n bwriadu [creu prototeipiau i helpu llunwyr polisi ar lefelau lleol a chenedlaethol](https://wra-prototypes.herokuapp.com/cy/index). Rydyn ni am alluogi sgyrsiau am sut y gellid trefnu treth eiddo rhanbarthol.
 
 Drwy ddefnyddio mapio o fewn prototeipiau gallwn archwilio; sut y gellid tynnu ffiniau ardaloedd rhanbarthol, pa ddata sy'n bodoli'n barod ac ym mhle mae data'n brin neu'n anodd ei ddefnyddio.
 
