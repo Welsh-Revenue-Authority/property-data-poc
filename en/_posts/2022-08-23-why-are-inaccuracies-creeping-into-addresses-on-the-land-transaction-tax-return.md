@@ -64,7 +64,7 @@ Often only one address is entered; the property address - even though there are 
 
 It was explained to me like this [paraphrased]:
 
-*The buyer is going to move to the property address - so we put the property address as their address. The seller - we don’t know where they are moving to - so we put their address down as the property address too.*
+> The buyer is going to move to the property address - so we put the property address as their address. The seller - we don’t know where they are moving to - so we put their address down as the property address too.
 
 So there is one address for the buyer and the seller. This undermines the accuracy of the data and begs the question - is there a value in asking for three address captures?
 
