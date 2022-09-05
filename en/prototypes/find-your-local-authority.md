@@ -10,7 +10,7 @@ We built a very basic prototype service using the first set of publicly availabl
 
 It is a narrow thread showing how the data we collect and store in the platform can be consumed and used in services.
 
-We had collected local authority boundaries from [DataMapWales]())https://datamap.gov.wales/) so built a prototype that would let a user select a point on the map and the service would work out which local authority it was in.
+We had collected local authority boundaries from [DataMapWales](https://datamap.gov.wales/) so built a prototype that would let a user select a point on the map and the service would work out which local authority it was in.
 
 We also added an integration with [What Three Words](https://what3words.com/pretty.needed.chill) to show how using open web technologies makes it easier to integrate with other services. And how these services can improve the experience of your own service. For example, where an address doesn’t exist for a transaction a user could provide the What Three Words combination and we can use that to determine the exact location.
 
