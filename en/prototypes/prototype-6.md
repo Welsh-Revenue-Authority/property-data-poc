@@ -1,7 +1,7 @@
 ---
-title: Find your local authority
+title: LTT statistics by postcode
 lang: en
-ref: find-your-local-authority
+ref: ltt-statistics-by-postcode
 layout: post
 author: The Land and Property Data Proof of Concept Team
 ---

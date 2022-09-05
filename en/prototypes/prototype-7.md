@@ -1,7 +1,7 @@
 ---
-title: Find your local authority
+title: Ways to construct areas
 lang: en
-ref: find-your-local-authority
+ref: ways-to-construct-areas
 layout: post
 author: The Land and Property Data Proof of Concept Team
 ---

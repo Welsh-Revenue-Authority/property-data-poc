@@ -1,7 +1,7 @@
 ---
-title: Find your local authority
+title: Tell me about a location
 lang: en
-ref: find-your-local-authority
+ref: tell-me-about-a-location
 layout: post
 author: The Land and Property Data Proof of Concept Team
 ---

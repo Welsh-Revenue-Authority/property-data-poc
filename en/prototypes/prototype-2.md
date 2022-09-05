@@ -1,7 +1,7 @@
 ---
-title: Find your local authority
+title: Provide a location journey
 lang: en
-ref: find-your-local-authority
+ref: provide-a-location-journey
 layout: post
 author: The Land and Property Data Proof of Concept Team
 ---

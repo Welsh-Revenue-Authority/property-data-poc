@@ -1,7 +1,7 @@
 ---
-title: Find your local authority
+title: Search land and property data by area
 lang: en
-ref: find-your-local-authority
+ref: search-land-and-property-data-by-area
 layout: post
 author: The Land and Property Data Proof of Concept Team
 ---
