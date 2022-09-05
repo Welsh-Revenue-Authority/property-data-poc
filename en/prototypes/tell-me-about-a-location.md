@@ -2,7 +2,7 @@
 title: Tell me about a location
 lang: en
 ref: tell-me-about-a-location
-layout: post
+layout: prototype
 author: The Land and Property Data Proof of Concept Team
 ---
 So far our prototypes have focused on getting a location or showing a user what data the platform held.

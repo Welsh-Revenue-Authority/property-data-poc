@@ -2,7 +2,7 @@
 title: Find your local authority
 lang: en
 ref: find-your-local-authority
-layout: post
+layout: prototype
 author: The Land and Property Data Proof of Concept Team
 ---
 

@@ -2,7 +2,7 @@
 title: Provide a location journey
 lang: en
 ref: provide-a-location-journey
-layout: post
+layout: prototype
 author: The Land and Property Data Proof of Concept Team
 ---
 Building on the prototype created to test using the local authority boundary data we created a sample “provide a location” journey.

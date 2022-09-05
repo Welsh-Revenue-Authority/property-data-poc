@@ -2,7 +2,7 @@
 title: Search land and property data by area
 lang: en
 ref: search-land-and-property-data-by-area
-layout: post
+layout: prototype
 author: The Land and Property Data Proof of Concept Team
 ---
 With this prototype we wanted to use some different functionality provided by the platform. Instead of returning complete datasets the platform now let service builders query for subsets of the data. A user can provide a bounding box and receive only the data contained within it.

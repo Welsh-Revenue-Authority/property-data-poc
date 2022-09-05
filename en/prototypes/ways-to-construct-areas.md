@@ -2,7 +2,7 @@
 title: Ways to construct areas
 lang: en
 ref: ways-to-construct-areas
-layout: post
+layout: prototype
 author: The Land and Property Data Proof of Concept Team
 ---
 For geographically varied policies a key need is defining the geography or area the policy will apply to.

@@ -2,7 +2,7 @@
 title: LTT statistics by postcode
 lang: en
 ref: ltt-statistics-by-postcode
-layout: post
+layout: prototype
 author: The Land and Property Data Proof of Concept Team
 ---
 With this prototype, we started to flesh out some ideas for a policy explorer tool.
