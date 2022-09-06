@@ -4,6 +4,9 @@ lang: en
 ref: find-your-local-authority
 layout: prototype
 author: The Land and Property Data Proof of Concept Team
+breadcrumb:
+    en: Find your local authority
+    cy: Dewch o hyd i'ch awdurdod lleol
 ---
 
 We built a very basic prototype service using the first set of publicly available data we added to the platform.
