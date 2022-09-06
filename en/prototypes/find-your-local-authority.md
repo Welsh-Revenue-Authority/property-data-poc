@@ -14,6 +14,8 @@ We had collected local authority boundaries from [DataMapWales](https://datamap.
 
 We also added an integration with [What Three Words](https://what3words.com/pretty.needed.chill) to show how using open web technologies makes it easier to integrate with other services. And how these services can improve the experience of your own service. For example, where an address doesn’t exist for a transaction a user could provide the What Three Words combination and we can use that to determine the exact location.
 
+![A screen capture showing a user clicking on a map of Wales. When they click the display changes to show the latitude and longitude of the point they clicked and the current Local Authority the point is in](/property-data-poc/assets/images/prototype-find-your-local-authority.gif){: .app-screenshot}
+
 ### What we learnt
 
 #### Working with geospatial data
