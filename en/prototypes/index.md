@@ -1,8 +1,7 @@
 ---
-layout: landing
+layout: prototype-landing
 lang: en
 ref: prototypes-index
-hidetitle: True
 ---
 
 Over the course of the last 10 weeks we have been creating prototypes to help us explore the user needs and the technical feasibility of a land and property tax platform.

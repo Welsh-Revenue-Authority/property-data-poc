@@ -24,6 +24,7 @@ t:
     weeknotes: Weeknotes
     weeknotes_description: Each week we share a short update on what we’re learning, along with links to things we think are interesting or relevant.
     prototype: Prototype
+    prototype_title: Prototyping the land and property tax platform
   cy:
     title: Data tir ac eiddo
     phase: Prawf o gysyniad
@@ -36,3 +37,4 @@ t:
     weeknotes: Nodiadau wythnosol
     weeknotes_description: Bob wythnos rydym yn rhannu diweddariad byr ar yr hyn rydym yn ei ddysgu, ynghyd â dolenni i bethau sydd, yn ein barn ni, yn ddiddorol neu'n berthnasol.
     prototype: Prototeip
+    prototype_title: Prototeipio'r llwyfan treth tir ac eiddo
