@@ -5,7 +5,7 @@ ref: search-land-and-property-data-by-area
 layout: prototype
 author: The Land and Property Data Proof of Concept Team
 ---
-With this prototype we wanted to use some different functionality provided by the platform. Instead of returning complete datasets the platform now let service builders query for subsets of the data. A user can provide a bounding box and receive only the data contained within it.
+With this prototype we wanted to use some different functionality provided by the platform. Instead of returning complete datasets the platform now provides the ability for service builders to query subsets of the data. A user can provide a bounding box and receive only the data contained within it.
 
 To be able to implement geographically varying policies it will be essential to be able to define new areas. In turn, these geometries would need to be available through the platform. We wanted to explore and demonstrate that the platform could make it easier to create tools to help users create the areas.
 

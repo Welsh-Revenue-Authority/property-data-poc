@@ -17,7 +17,7 @@ We ended up building a prototype where users can explore the data visually via a
 
 ### What we learnt
 
-A lack of consistency in the available data makes it hard to build services. This means using open data, even from the same source (DataMapWales), is not plug and play. For example, for all the datasets we added the attribute used to provide the name of the thing the geospatial data represents is different. 
+A lack of consistency in the available data makes it hard to build services. This means using open data, even from the same source ([DataMapWales](https://datamap.gov.wales/)), is not plug and play. For example, for all the datasets we added the attribute used to provide the name of the thing the geospatial data represents is different. 
 
 Similarly, when it comes to providing bilingual data, it is a mixed bag. Some datasets include it, some don’t. And when they do we have the same consistency problem. Different attributes will be used for the Welsh names.
 
@@ -27,4 +27,4 @@ Quickly integrating with the Open Street Map address service demonstrated how ea
 
 ### Issues to resolve
 
-Maps should always be used along with a none map alternative. However to build alternatives the platform needs to expose ways of discovering what datasets it holds without a user a) having to know about it and b) having to access the complete dataset to explore what individual data records look like
+Maps should always be used along with a non-map alternative. However to build alternatives the platform needs to expose ways of discovering what datasets it holds without a user a) having to know about it; and b) having to access the complete dataset to explore what individual data records look like
