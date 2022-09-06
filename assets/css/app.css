@@ -1,3 +1,14 @@
+.wra-list {
+  margin-top: 0;
+  margin-bottom: 20px;
+  padding-left: 0;
+  list-style-type: none; }
+  .wra-list .wra-list {
+    margin-top: 10px; }
+
+.wra-list > li {
+  margin-bottom: 5px; }
+
 .wra-\!-margin-top-0 {
   margin-top: 0 !important; }
   @media (min-width: 46.25em) {
