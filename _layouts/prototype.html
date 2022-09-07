@@ -1,0 +1,21 @@
+{% include header.html %}
+<div class="wra-breadcrumbs">
+  <ol class="wra-breadcrumbs__list">
+    <li class="wra-breadcrumbs__list-item">
+      <a class="wra-breadcrumbs__link" href="{{site.baseurl}}{{site.t[page.lang].root}}">{{site.t[page.lang].title}}</a>
+    </li>
+    <li class="wra-breadcrumbs__list-item">
+      <a class="wra-breadcrumbs__link" href="{{site.baseurl}}{{site.t[page.lang].root}}/prototypes">{{site.t[page.lang].prototype}}</a>
+    </li>
+    <li class="wra-breadcrumbs__list-item">
+      {{page.breadcrumb[page.lang]}}
+    </li>
+  </ol>
+</div>
+<header class="page-header">
+    <span class="wra-heading__caption wra-!-margin-top-6">{{site.t[page.lang].prototype}}</span>
+    <h1 class="h1-sm-and-up"><span property="schema:name">{{page.title}}</span>
+    </h1>
+</header>
+{{ content }}
+{% include footer.html %}

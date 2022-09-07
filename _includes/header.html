@@ -21,7 +21,7 @@
         <link rel="stylesheet" media="all" href="{{site.baseurl}}/assets/css/walesgel/wales-gel.css" />
         <link rel="stylesheet" media="all" href="{{site.baseurl}}/assets/css/app.css" />
     </head>
-    <body class="path-frontpage page-node-type-page lang-{{page.lang}}">
+    <body class="path-frontpage page-node-type-page lang-{{page.lang}}{% if page.layout == 'prototype' %} app-prototype-page{% endif %}">
         <script>document.body.className = ((document.body.className) ? document.body.className + ' js' : 'js');</script>
         <div class="skip-to-main" id="skip-to-main">
           <a href="#wg_main" class="visually-hidden focusable">

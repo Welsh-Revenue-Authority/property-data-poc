@@ -1,3 +1,5 @@
+@import "wra-frontend/wra-frontend";
+
 .secondary-h1-header {
   margin: 0;
   padding-left:0;
@@ -13,3 +15,7 @@
 color: #ffd530;
 background-color: #463811;
 } */
+
+.app-screenshot {
+  border: 1px solid $wra-text-colour;
+}
