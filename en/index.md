@@ -35,8 +35,6 @@ We’ve written up our findings for each of the prototypes which you can see on 
 
 # We did research to understand why location is sometimes inaccurate 
 
-During Phase 2 we did the following research: 
-
 ## Location 
 **Who we did research with:** 4 x agents and intermediaries 
 
