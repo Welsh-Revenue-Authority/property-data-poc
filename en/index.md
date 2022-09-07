@@ -35,7 +35,6 @@ We’ve written up our findings for each of the prototypes which you can see on 
 
 # We did research to understand why location is sometimes inaccurate 
 
-## Location 
 **Who we did research with:** 4 x agents and intermediaries 
 
 **What we wanted to understand:** How a property’s location is identified 
