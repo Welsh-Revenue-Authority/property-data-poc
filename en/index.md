@@ -39,6 +39,7 @@ During Phase 2 we did the following research:
 
 ## Location 
 **Who we did research with:** 4 x agents and intermediaries 
+
 **What we wanted to understand:** How a property’s location is identified 
 
 ## What we discovered: 
