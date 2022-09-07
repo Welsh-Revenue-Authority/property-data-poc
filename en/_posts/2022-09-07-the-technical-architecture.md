@@ -52,7 +52,6 @@ Automatic process currently covering property transaction data from Land Registr
 
 Platform offers an API, part of which is publicly available. It also offers GeoServer for geographical queries/map layers with WMS/WFS protocols. 
 
- 
 Both API and GeoServer are utilised in [prototypes we built (such as the Policy Explorer)](https://welsh-revenue-authority.github.io/property-data-poc/en/prototypes/), which are hosted in separate Azure subscriptions/other hosting providers. 
 
 To secure the entry point we use Azure Front Door.
