@@ -4,6 +4,9 @@ lang: en
 ref: tell-me-about-a-location
 layout: prototype
 author: The Land and Property Data Proof of Concept Team
+breadcrumb:
+    en: Tell me about a location
+    cy: Dywedwch wrthyf am leoliad
 ---
 So far our prototypes have focused on getting a location or showing a user what data the platform held.
 
