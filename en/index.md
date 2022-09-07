@@ -167,7 +167,7 @@ The platform was designed using Open-Source components with Open standards in mi
 
 We used serverless Azure components (including Azure database for PostgreSQL and App Services). Continues Integration (GitHub Actions) allows seamless deployments into dedicated WRA’s Azure Subscription (utilising WRA volume discounts with MS). To limit manual admin tasks and automate the infrastructure deployments, Infrastructure as a Code (PowerShell scripts) has been introduced. 
 
-We’ve a more in-depth, technical overview of how we built the platform in [this blog post](). 
+We’ve a more in-depth, technical overview of how we built the platform in [this blog post](/2022/09/07/technical-architecture.html). 
 
 # What next for Regional Land Transaction Tax? 
 Regional LTT will be able to benefit from all we have learnt about property data, users, technology and policy decisions. Despite not being able to fully use platform for LTT regional there will be many aspects of the platform work that will be transferred to the LTT Regional service team.  
