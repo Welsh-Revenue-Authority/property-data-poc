@@ -31,7 +31,7 @@ To help us learn we built a variety of different prototypes. We did these for a 
 
 * to stimulate ideas about what might be possible 
 
-We’ve written up our findings for each of the prototypes which you can see on the [“page per prototype” here](https://welsh-revenue-authority.github.io/property-data-poc/en/prototypes/). 
+We’ve written up our findings for each of the prototypes which you can see on the [“page per prototype”](https://welsh-revenue-authority.github.io/property-data-poc/en/prototypes/). 
 
 # We did research to understand why location is sometimes inaccurate 
 
