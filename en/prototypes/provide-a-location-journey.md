@@ -4,6 +4,9 @@ lang: en
 ref: provide-a-location-journey
 layout: prototype
 author: The Land and Property Data Proof of Concept Team
+breadcrumb:
+    en: Provide a location journey
+    cy: Darparu taith lleoliad
 ---
 Building on the prototype created to test using the local authority boundary data we created a sample “provide a location” journey.
 
@@ -19,9 +22,13 @@ A user is likely, but not guaranteed, to know the local authority the property o
 
 ### What we learnt
 
+**Different formats and different cuts of data**
+
 Service builders need to be able to get data in forms and formats other than GeoJSON. Getting all the GeoJSON is useful for displaying the boundaries on a map but is less practical for other purposes. For example a service builder might want to list all the local authorities in Wales, to do this they shouldn’t need to get all the GeoJSON and then ignore the majority of it.
 
 Rather than fetching the complete dataset - local authority boundaries - a service builder might want to take cuts of the data - in this case a single local authority boundary
+
+**Geospatial data changes over time**
 
 These maps are a visual representation of the data at single period in, however the data can change, boundaries can be redefined. We need to think about this when building the platform and services. Service builders will need to access the data for the time period they care about. And the services should keep the users informed about the relevant time period being shown.
 

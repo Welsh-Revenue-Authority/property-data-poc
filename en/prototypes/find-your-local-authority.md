@@ -21,7 +21,7 @@ We also added an integration with [What Three Words](https://what3words.com/pret
 
 ### What we learnt
 
-#### Working with geospatial data
+**Working with geospatial data**
 
 A lot of the publicly available (gov) data is in OS grid format - a less widely used format than the web standard WGS84 format. Each coordinate reference system (CRS) has its advantages and disadvantages but we decided to prioritise interoperability and convert all the data we collected to WGS84. This provides the consistency needed to be able to more easily build services using it. We need to be mindful that converting between different CRSs, although relatively trivial (and is a solved problem), causes a loss of accuracy.
 
@@ -29,7 +29,7 @@ The [GOVUK standard for exchange of location point](https://www.gov.uk/governmen
 
 Getting an accurate location is a common problem that lots of people try to fix. This means there are lots of services we can integrate with that might help us create better services for our users. Using the WGS84 CRS makes this easier to do and integrate with map frameworks such as mapbox/maplibre.
 
-#### Making data available via the platform
+**Making data available via the platform**
 
 Although it was single, fairly simple dataset we were able to demonstrate how we could collect and add the local authority data into the basis of what could become a land and property platform. And with the data held in the platform we were able to build a simple API that called the data allowing this prototype to be built.
 
