@@ -15,6 +15,8 @@ This prototype demonstrates how that journey could be improved even if the only 
 
 A user is likely, but not guaranteed, to know the local authority the property or parcel of land is in. By asking them that upfront we can then focus the map on this local authority, making it easier for them to select the location.
 
+![A screen capture showing a user providing a location when they don't know the address. They first choose a local authority and then the map loads focused on the selected local authority. The user can now place a marker on the map.](/property-data-poc/assets/images/prototype-provide-a-location-journey.gif){: .app-screenshot}
+
 ### What we learnt
 
 Service builders need to be able to get data in forms and formats other than GeoJSON. Getting all the GeoJSON is useful for displaying the boundaries on a map but is less practical for other purposes. For example a service builder might want to list all the local authorities in Wales, to do this they shouldn’t need to get all the GeoJSON and then ignore the majority of it.
