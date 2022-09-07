@@ -42,7 +42,7 @@ We’ve written up our findings for each of the prototypes which you can see on 
 
 ## What we discovered: 
 
-1.We discovered that different datasets were used by different people as their canonical source of truth. 
+1. We discovered that different datasets were used by different people as their canonical source of truth. 
 
 * Agents use the Land Title and what is written there as the definitive description of address whereas WRA use OS places as their canonical source. 
 
