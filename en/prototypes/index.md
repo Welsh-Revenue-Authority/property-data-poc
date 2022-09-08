@@ -30,3 +30,4 @@ Prototype 7: [Ways to construct areas](/property-data-poc/en/prototypes/ways-to-
 
 [WRA frontend](https://github.com/welsh-revenue-authority/wra-frontend) - A package of reusable frontend code.
 
+[Land and property platform](https://github.com/welsh-revenue-authority/property_platform_app) - The code for the proof-of-concept platform
