@@ -20,7 +20,7 @@ Earlier in the year we took a broad look at platforms and looked at potential be
 
 Over the past few months we took a deeper narrow approach and focused on how a Land and Data Platform could help with Regional LTT.  
 
-# How we developing prototypes to help us learn 
+# We created prototypes to help us learn 
 To help us learn we built a variety of different prototypes. We did these for a number of reasons: 
 
 * to help us understand how service builders might use a platform, and what they might need from it 
