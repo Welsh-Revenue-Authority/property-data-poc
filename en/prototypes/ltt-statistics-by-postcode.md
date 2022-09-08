@@ -16,7 +16,9 @@ A land and property tax platform should make it easier to make these types of se
 
 We also started thinking about what the platform should do when its not possible to expose all the raw data. We will need to restrict access to data containing anything sensitive or private. However, we know platforms provide most value when they are open and have more people using them. Therefore it is important we try to keep everything we can open, and in cases where we need to restrict access to the raw data we should be asking “What parts of the data can we expose or what functionality sitting on top of the data can we expose?”
 
-It is about figuring out where the data, functions and rules sit along the "platform access spectrum". What should be restricted and what bits can we open up?
+We need to figure out where the data, functions and rules sit along the "platform access spectrum". What should be restricted and what bits can we open up to a larger set of users?
+
+![An image of the platform access spectrum. It has three states; closed, shared and open. Under each state it lists the data, functions and rules we've so far added to the platform.](/property-data-poc/assets/images/platform-access-spectrum-progress.png)
 
 We wanted to demonstrate this with a real-world example.
 
