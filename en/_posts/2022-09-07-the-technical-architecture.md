@@ -8,7 +8,7 @@ author: Luke Sawicki
 
 The platform was designed using Open-Source components with Open standards in mind (avoiding licensing costs and vendor locking). We used serverless Azure components (including Azure database for PostgreSQL and App Services). Continuous integration (GitHub Actions) allows seamless deployments into dedicated WRA’s Azure Subscription (utilising WRA volume discounts with MS). To limit the manual admin tasks and automate the infrastructure deployments, Infrastructure as a Code (PowerShell scripts) has been introduced.
 
-![A diagram that shows the technical architecture of the platform.](/property-data-poc/assets/images/architecture-diagram-overview.png)
+![A diagram that shows the technical architecture of the platform.](/assets/images/architecture-diagram-overview.png)
 
 The platform consists of several serverless components in a single Azure subscription. 
 
@@ -46,7 +46,7 @@ We also provide a set of python scripts for batch file processing.
 
 Automatic process currently covering property transaction data from Land Registry uses python script called by time triggered Azure Function. Script is pulling data from the [Land Registry Open Data API](https://landregistry.data.gov.uk/), using SPARQL queries.
 
-![A diagram that shows how data is collected from external sources, such as HM Land Registry.](/property-data-poc/assets/images/architecture-diagram-data.png)
+![A diagram that shows how data is collected from external sources, such as HM Land Registry.](/assets/images/architecture-diagram-data.png)
 
 ## Sharing data 
 
@@ -56,4 +56,4 @@ Both API and GeoServer are utilised in [prototypes we built (such as the Policy 
 
 To secure the entry point we use Azure Front Door.
 
-![A diagram that show the Azure front door process.](/property-data-poc/assets/images/architecture-diagram-customers.png)
+![A diagram that show the Azure front door process.](/assets/images/architecture-diagram-customers.png)
