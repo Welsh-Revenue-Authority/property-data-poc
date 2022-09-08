@@ -19,3 +19,14 @@ Prototeip 5: [Dywedwch wrthyf am leoliad](/property-data-poc/cy/prototypes/dywed
 Prototeip 6: [Ystadegau LTT yn ôl cod post](/property-data-poc/cy/prototypes/ystadegau-ltt-yn-ôl-cod-post)
 
 Prototeip 7: [Ffyrdd o adeiladu ardaloedd](/property-data-poc/cy/prototypes/ffyrdd-o-adeiladu-ardaloedd)
+
+---
+
+### Adnoddau defnyddiol
+
+[Protoype kit](https://github.com/welsh-revenue-authority/prototype-kit) - Y cod ar gyfer yr holl brototeipiau. 
+
+[WRA frontend](https://github.com/welsh-revenue-authority/wra-frontend) - Pecyn o god blaen y gellir ei ailddefnyddio.
+
+[Land and property platform](https://github.com/welsh-revenue-authority/property_platform_app) - 
+Y cod ar gyfer y llwyfan prawf-cysyniad
