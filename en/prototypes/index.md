@@ -21,3 +21,12 @@ Prototype 5: [Tell me about a location](/property-data-poc/en/prototypes/tell-me
 Prototype 6: [LTT statistics by postcode](/property-data-poc/en/prototypes/ltt-statistics-by-postcode)
 
 Prototype 7: [Ways to construct areas](/property-data-poc/en/prototypes/ways-to-construct-areas)
+
+---
+
+### Useful resources
+
+[Protoype kit](https://github.com/welsh-revenue-authority/prototype-kit) - The code for all the prototypes. 
+
+[WRA frontend](https://github.com/welsh-revenue-authority/wra-frontend) - A package of reusable frontend code.
+
