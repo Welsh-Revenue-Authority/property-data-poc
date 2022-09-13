@@ -9,11 +9,13 @@ The [Welsh Revenue Authority (WRA)](https://gov.wales/welsh-revenue-authority)
 LTT is changing so that certain areas in Wales will charge an additional rate of tax for Second homes/Holiday Lets. To support this change we need to be able to identify land and property reliably at a more granular level than we do currently. The Land and Property Data Platform (LPDP) project explored how a data platform could meet these needs, but at the same time we’ve taken the opportunity to consider if we could create something that might be the foundation for wider uses, for the benefit of Wales. 
 
 # What do we mean by “data platform”? 
-A platform is digital infrastructure that can be used by many organisations. For example, the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) (GDS) delivers digital infrastructure to support all of UK government. Its platforms include [“Notify”](https://www.notifications.service.gov.uk/) and [“Pay”](https://www.payments.service.gov.uk/). 
+A platform is digital infrastructure that can be used by many organisations. For example, the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) (GDS) delivers digital infrastructure to support all of UK government. Its platforms include [“Notify”](https://www.notifications.service.gov.uk/) and [“Pay”](https://www.payments.service.gov.uk/).  
 
 Notify allows anyone who uses its code to send their own customised, bulk or individual postal letters and SMS to citizens. Pay is code that allows citizens to make payments for government services – whichever service that is, so that each service does not have to create its own payment process code from scratch.   
 
 A “data” platform is shared capability that allows organisations to access a range of datasets allowing them to combine data in new and interesting ways. The [Office for National Statistics](https://www.ons.gov.uk/) have a data platform called the Integrated Data Programme (IDP) which allows analysts to access a wide range of ONS statistics. A land and property data platform for Wales would enable the combining of key location datasets together with mapping functionality so that users can explore location related data on a map. 
+
+We've [written about this previously](https://welsh-revenue-authority.github.io/property-data-poc/en/2022/03/02/what-do-we-mean-by-a-data-platform.html) and tried to sketch out what this might mean for Wales.
 
 # Our work so far 
 Earlier in the year we took a broad look at platforms and looked at potential benefits of platforms to services and policies in Wales, a [summary of what we did and what we learnt](https://welsh-revenue-authority.github.io/property-data-poc/en/2022/05/26/summary_proof_of_concept.html).  
