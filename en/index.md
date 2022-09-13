@@ -16,11 +16,11 @@ Notify allows anyone who uses its code to send their own customised, bulk or ind
 A “data” platform is shared capability that allows organisations to access a range of datasets allowing them to combine data in new and interesting ways. The [Office for National Statistics](https://www.ons.gov.uk/) have a data platform called the Integrated Data Programme (IDP) which allows analysts to access a wide range of ONS statistics. A land and property data platform for Wales would enable the combining of key location datasets together with mapping functionality so that users can explore location related data on a map. 
 
 # Our work so far 
-Earlier in the year we took a broad look at platforms and looked at potential benefits of platforms to services and policies in Wales, a summary of what we did and what we learnt can be found [here](https://welsh-revenue-authority.github.io/property-data-poc/en/2022/05/26/summary_proof_of_concept.html).  
+Earlier in the year we took a broad look at platforms and looked at potential benefits of platforms to services and policies in Wales, a [summary of what we did and what we learnt](https://welsh-revenue-authority.github.io/property-data-poc/en/2022/05/26/summary_proof_of_concept.html).  
 
 Over the past few months we took a deeper narrow approach and focused on how a Land and Data Platform could help with Regional LTT.  
 
-## We created prototypes to help us learn 
+## Using prototypes to help us learn 
 To help us learn we built a variety of different prototypes. We did these for a number of reasons: 
 
 * to help us understand how service builders might use a platform, and what they might need from it 
@@ -33,34 +33,23 @@ To help us learn we built a variety of different prototypes. We did these for a 
 
 We’ve written up our findings for each of the prototypes which you can see on the [“page per prototype”](https://welsh-revenue-authority.github.io/property-data-poc/en/prototypes/). 
 
-## We did research to understand why location is sometimes inaccurate 
+## Researching users and their needs
 
-**Who we did research with:** 4 x agents and intermediaries 
+### Why is location sometimes inaccurate in LTT returns?
 
-**What we wanted to understand:** How a property’s location is identified 
+We did research with 4 x agents and intermediaries to learn how a property’s location is identified. 
 
-### What we discovered: 
+We discovered that:
 
-1. We discovered that different datasets were used by different people as their canonical source of truth. 
+* **Different datasets were used by different people as their canonical source of truth**. Agents use the Land Title and what is written there as the definitive description of address whereas WRA use OS places as their canonical source. The problem is that when the agent does a tax return they need to make address match their canonical source and the WRA need it to match theirs – it can’t always match both at the same time! Having an agreed sense of what will form the canonical source of data will be essential to getting consistent and accurate data. 
 
-* Agents use the Land Title and what is written there as the definitive description of address whereas WRA use OS places as their canonical source. 
+* **The completion of the LTT return is subject to errors because of manual rekeying**. The act of completing the return involves the rekeying of information - which is time consuming and error prone and involves a high cognitive load for those doing it as they have to flip between documents (physical and electronic) and in some cases cannot cut and paste the data. The manual work of doing this together with the fact that the person doing it may not "own" the data because they have not worked on the transaction - introduces a higher risk of error. 
 
-* The problem is that when the agent does a tax return they need to make address match their canonical source and the WRA need it to match theirs – it can’t always match both at the same time! 
-
-* Having an agreed sense of what will form the canonical source of data will be essential to getting consistent and accurate data. 
-
-2. The completion of the LTT return is subject to errors because of manual rekeying  
-
-* The act of completing the return involves the rekeying of information - which is time consuming and error prone and involves a high cognitive load for those doing it as they have to flip between documents (physical and electronic) and in some cases cannot cut and paste the data. The manual work of doing this together with the fact that the person doing it may not "own" the data because they have not worked on the transaction - introduces a higher risk of error. 
-
-### What we don’t know: 
-#### Canonical source of truth 
+We'd like to learn more about:
 
 * What would be the best way to ensure that UPRN is attached to a location record? 
 
 * Should the LTT return process be used to build a database of UPRN locations attached to Land Registry records that could be used to update Land Registry at some future point in time? 
-
-#### LTT return completion  
 
 * How many agents have their own bespoke systems for processing transactions? 
 
@@ -68,71 +57,44 @@ We’ve written up our findings for each of the prototypes which you can see on 
 
 We wrote a [blog post](https://welsh-revenue-authority.github.io/property-data-poc/en/2022/08/23/why-are-inaccuracies-creeping-into-addresses-on-the-land-transaction-tax-return.html) that summarised our findings about location data. 
 
-## We did research to understand who might use the platform within WRA 
-**Who we did research with:** 7 x WRA (4 x service owners, 3 x data managers) 
-**What we wanted to understand:** Who and how are teams in WRA using land and property data? 
+### Who might use the platform within WRA?
+We did research with 7 x WRA (4 x service owners, 3 x data managers) to understand who using land and property data in WRA. 
 
-### What we discovered: 
+We discovered that:
 
- There are many staff doing individual ad hoc searches on openly available data [Land Reg/Companies House] but no systematic way to harness the power of that data in an automated way to verify accuracy of tax data submitted 
+* **there are many staff doing individual ad hoc searches on openly available data** [Land Reg/Companies House] but no systematic way to harness the power of that data in an automated way to verify accuracy of tax data submitted. These ad hoc searches are manual and time-consuming but all use common data sources. 
 
-* These ad hoc searches are manual and time-consuming but all use common data sources 
+* **WRA backend systems are optimised to show for single transactions rather than embedding thinking about the service journey of the user**. The service journeys of individual users are not part of the current design thinking of the back end systems.  
 
-2. WRA backend systems are optimised to show for a single tax – single transactions - rather than embedding thinking about the service journey of the user 
+* **Landfill Disposal Tax team want to explore how well their policy intent is being delivered** by the legislation that has been passed but they struggle to get the data they need to do this. Thinking about how the policy intent of a new policy will be measured and analysed to understand if it is working needs to be built in front the start.  
 
-* The service journeys of individual users are not part of the current design thinking of the back end systems 
+We'd like to learn more about:
 
-3. We heard from Landfill Disposal Tax that they want to explore how well their policy intent is being delivered by the legislation that has been passed but they struggle to get the data they need to do this. 
+* Ad hoc searches: we don’t know how many teams across Welsh government need access to the same datasets and are all doing ad hoc searches. 
 
-* Thinking about how the policy intent of a new policy will be measured and analysed to understand if it is working needs to be built in front the start.  
-### What we don’t know: 
+* Service journeys: we haven’t mapped the service journey of the different actors within the Land Transaction Tax return process – which would expose goals, needs and pain points for different people from start to finish. 
 
-#### Ad hoc searches 
+* Policy delivery measurement: we haven’t discussed what data would need to be captured to know if the policy that underpins the regional land transaction tax was delivering the policy intent 
 
-* We don’t know how many teams across Welsh government need access to the same datasets and are all doing ad hoc searches. 
+### Who might use the platform outside of WRA?
 
-#### Service journeys 
+We did research with 4 x Local authorities, 2 x public sector bodies delivering cross Wales services to understand how local authorities/other public sector bodies using land and property data.
 
-* We haven’t mapped the service journey of the different actors within the Land Transaction Tax return process – which would expose goals, needs and pain points for different people from start to finish. 
+We discovered that:  
 
-#### Policy delivery measurement 
+* **All the local authorities we spoke to used UPRN as unique identifier for property/land**. They all used the centre point in the property or land(if no property) as the place to locate the UPRN. If there is a block of flats the UPRN's are stacked on top of each other. 
 
-* We haven’t discussed what data would need to be captured to know if the policy that underpins the regional land transaction tax was delivering the policy intent 
+* **UPRN is commonly used but underlying processes may be different**. One participant assigned UPRN immediately even before planning application had been approved. Another only assigned it once planning had been approved. So one authority could have 'Active", "historic" and "underconstruction" statuses applied to UPRN whereas another authority - if the UPRN was applied it was through planning. 
 
-## We did research to understand who might use the platform outside of WRA 
+* **Cross-Wales mapping requires good data matching**. Both the emergency service project and an initiative to map fly-tipping sites across Wales required the bringing together of multiple local authority datasets. In both cases there were challenges with the matching of address data. Literally the format of the address; eg. line 1, line 2 etc were not consistent and so it is harder to create alignment and consensus of location. 
 
-**Who we did research with:** 4 x Local authorities, 2 x public sector bodies delivering cross Wales services 
+We'd like to learn more about:  
 
-**What we wanted to understand:** How are local authorities/other public sector bodies using land and property data? 
+* What level of divergence of the processes exist around UPRN?
 
-### What we discovered:  
+* To what degree common cross-Wales data standards have been defined and how consistently they have been deployed?
 
-1. All the local authorities we spoke to used UPRN as unique identifier for property/land  
-
-* They all used the centre point in the property or land(if no property) as the place to locate the UPRN. If there is a block of flats the UPRN's are stacked on top of each other. 
-
-2. UPRN is commonly used but underlying processes may be different.  
-
-* One participant assigned UPRN immediately even before planning application had been approved. Another only assigned it once planning had been approved.  
-* So one authority could have 'Active", "historic" and "underconstruction" statuses applied to UPRN whereas another authority - if the UPRN was applied it was through planning. 
-
-3. Cross Wales mapping requires good data matching  
-
-* Both the emergency service project and an initiative to map fly-tipping sites across Wales required the bringing together of multiple local authority datasets.  
-
-* In both cases there were challenges with the matching of address data. Literally the format of the address; eg. line 1, line 2 etc were not consistent and so it is harder to create alignment and consensus of location. 
-
-### What we don’t know:  
-
-#### UPRN processes are different 
-
-* The level of divergence of the processes around UPRN 
-
-#### UPRN processes are different 
-
-* To what degree common cross Wales data standards have been defined and how consistently they have been deployed 
-
-* Which cross Wales services exist that might benefit from a land and property data platform 
+* Which cross-Wales services exist that might benefit from a land and property data platform?
 
 Our [blog post](https://welsh-revenue-authority.github.io/property-data-poc/en/2022/08/18/how-a-map-can-paint-a-bigger-picture.html) about mapping and location data.  
 
