@@ -15,7 +15,7 @@ Notify allows anyone who uses its code to send their own customised, bulk or ind
 
 A “data” platform is shared capability that allows organisations to access a range of datasets allowing them to combine data in new and interesting ways. The [Office for National Statistics](https://www.ons.gov.uk/) have a data platform called the Integrated Data Programme (IDP) which allows analysts to access a wide range of ONS statistics. A land and property data platform for Wales would enable the combining of key location datasets together with mapping functionality so that users can explore location related data on a map. 
 
-We've [written about this previously](https://welsh-revenue-authority.github.io/property-data-poc/en/2022/03/02/what-do-we-mean-by-a-data-platform.html) and tried to sketch out what this might mean for Wales.
+We've written about this previously and tried to sketch out [what this might look like](https://welsh-revenue-authority.github.io/property-data-poc/en/2022/03/02/what-do-we-mean-by-a-data-platform.html).
 
 # Our work so far 
 Earlier in the year we took a broad look at platforms and looked at potential benefits of platforms to services and policies in Wales, a [summary of what we did and what we learnt](https://welsh-revenue-authority.github.io/property-data-poc/en/2022/05/26/summary_proof_of_concept.html).  
