@@ -66,7 +66,7 @@ We discovered that:
 
 * **WRA backend systems are optimised to show for single transactions rather than embedding thinking about the service journey of the user**. The service journeys of individual users are not part of the current design thinking of the back end systems.  
 
-* **Landfill Disposal Tax team want to explore how well their policy intent is being delivered** by the legislation that has been passed but they struggle to get the data they need to do this. Thinking about how the policy intent of a new policy will be measured and analysed to understand if it is working needs to be built in front the start.  
+* **Landfill Disposal Tax team want to explore how well their policy intent is being delivered** but they struggle to get the data they need to do this. Thinking about how the policy intent of a new policy will be measured and analysed to understand if it is working needs to be built in front the start.  
 
 We'd like to learn more about:
 
