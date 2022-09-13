@@ -34,7 +34,7 @@ To help us learn we built a variety of different prototypes. We did these for a 
 We’ve written up our findings for each of the prototypes which you can see on the [“page per prototype”](https://welsh-revenue-authority.github.io/property-data-poc/en/prototypes/). 
 
 ## Learning about users
-The team conducted research to learn more about users and their needs.  At the heart of our ways of working is the notion that by understanding this, the team can build the right thing.  We did several rounds of research.  We wanted to observe what user do, not just what they say they do.  Here are some of the things we learned.
+The team conducted several rounds of user research to learn more about users and their needs.  At the heart of our ways of working is the notion that by understanding this, the team can build the right thing. We wanted to observe what user do, not just what they say they do. Here are some of the things we discovered.
 
 ### Why is location sometimes inaccurate in LTT returns?
 
