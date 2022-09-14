@@ -103,7 +103,7 @@ Our [blog post](https://welsh-revenue-authority.github.io/property-data-poc/en/2
 
 ## How we explored data for the platform
 
-There's a lot of useful data out there as we discovered in our review of the [data landscape](https://github.com/welsh-revenue-authority/data-landscape). In the second phase we focused on using real data in the platform, such as consuming the publicly available house price data from land registry, to create the policy tool prototype. 
+There's a lot of useful data out there as we discovered in our review of the [data landscape](https://github.com/welsh-revenue-authority/data-landscape). In the second phase we focused on using it for real in the platform, such as consuming the publicly available house price data from land registry, to create the policy tool prototype. 
 
 One key finding from this was that property data isn't consistent across datasets. For example, we have the Unique Property Reference Number (UPRN), Title numbers, local authority reference numbers all used, with no way currently to cross reference these different lists. This causes us not to be able to accurately combine datasets from different sources, which, if possible, could provide real insights for Ministers, the public and private sector and the public. 
 
