@@ -101,14 +101,15 @@ We'd like to learn more about:
 
 Our [blog post](https://welsh-revenue-authority.github.io/property-data-poc/en/2022/08/18/how-a-map-can-paint-a-bigger-picture.html) about mapping and location data.  
 
-## How we explored data for the platform 
-In the second phase we focused on using real data in the platform, such as consuming the publicly available house price data from land registry, to create the policy tool prototype. 
+## How we explored data for the platform
+
+There's a lot of useful data out there as we discovered in our review of the [data landscape](https://github.com/welsh-revenue-authority/data-landscape). In the second phase we focused on using real data in the platform, such as consuming the publicly available house price data from land registry, to create the policy tool prototype. 
 
 One key finding from this was that property data isn't consistent across datasets. For example, we have the Unique Property Reference Number (UPRN), Title numbers, local authority reference numbers all used, with no way currently to cross reference these different lists. This causes us not to be able to accurately combine datasets from different sources, which, if possible, could provide real insights for Ministers, the public and private sector and the public. 
 
 The WRA will continue to work with our partner organisations to push for a greater consistency in the sharing of land and property data across organisations, to ensure property location data can be better used at the heart of the decision-making process.  
 
-## The policy challenges we have been working through 
+## The policy challenges
 Through good policy you can deliver a tax that takes into account the aim of the tax and the impact it will have on taxpayers, local and national government, future taxes and more. 
 
 Providing an excellent service has been at the forefront of everything that we have done throughout Phase 2, and we have gone in-depth on multiple policy areas to understand the questions we need to answer and the areas we need to focus on.  
